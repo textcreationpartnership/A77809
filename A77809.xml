@@ -1,0 +1,924 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oratio Dominica: or, The Lords prayer, pleading for better entertainment in the Church of England. A sermon preached at Saint Mary Woolnoth, London, Jun 11. 1643. By Peter Bales, Mr. in Arts, and minister of the Gospel.</title>
+            <author>Bales, Peter, 1547-1610?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 82 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77809</idno>
+            <idno type="STC">Wing B550</idno>
+            <idno type="STC">Thomason E55_6</idno>
+            <idno type="STC">ESTC R16272</idno>
+            <idno type="EEBO-CITATION">99860002</idno>
+            <idno type="PROQUEST">99860002</idno>
+            <idno type="VID">112107</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77809)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112107)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 10:E55[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Oratio Dominica: or, The Lords prayer, pleading for better entertainment in the Church of England. A sermon preached at Saint Mary Woolnoth, London, Jun 11. 1643. By Peter Bales, Mr. in Arts, and minister of the Gospel.</title>
+                  <author>Bales, Peter, 1547-1610?</author>
+               </titleStmt>
+               <extent>[4], 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F[rancis] E[glesfield] and are to be sold at the Marigold in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Eglesfield was working at this address in 1643.</note>
+                  <note>Running title reads: The Lords prayer in better request.</note>
+                  <note>Annotation on Thomason copy: "June 19th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Liturgy --  Early works to 1800.</term>
+               <term>Lord's prayer --  Sermons --  Early works to 1800.</term>
+               <term>Bible. --  N.T. --  Luke XI, 2 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112107:1" rendition="simple:additions"/>
+            <p>
+               <hi>ORATIO DOMINICA: OR,</hi> THE LORDS PRAYER, Pleading for Better ENTERTAINMENT IN THE CHVRCH OF <hi>ENGLAND.</hi>
+            </p>
+            <p>A Sermon Preached at Saint <hi>Mary Woolnoth,</hi> London, <hi>Jun</hi> 11. 1643.</p>
+            <p>By <hi>Peter Bales,</hi> M<hi rend="sup">r</hi>. in Arts, and Miniſter of the Goſpel.</p>
+            <q>
+               <bibl>
+                  <hi>NVM. 23.12.</hi>
+               </bibl>
+               <p>Muſt I not take heed to ſpeake that which the Lord hath put in my mouth?</p>
+               <bibl>
+                  <hi>ECCLES. 5.2.</hi>
+               </bibl>
+               <p>Be not raſh with thy mouth, and let not thine heart be hastie to utter any thing before God: for God is in heaven, and thou upon earth, therefore let thy words be few.</p>
+               <bibl>
+                  <hi>Cypr. Ser. de Orat. Dom.</hi>
+               </bibl>
+               <p>Qui h<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>itat intus in pectore, ipſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſit in voce; &amp; cium ipſum habeamus advocatum apud patrem pro peccat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s noſtris, quandò pro delictis noſtris peccatores nos peti<g ref="char:EOLhyphen"/>mus, advocati noſtri verba promamus.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>F. E.</hi> and are to be ſold at the Marigold in <hi>Pauls</hi> Church-yard, 1643.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:112107:2"/>
+            <pb facs="tcp:112107:2"/>
+            <head>TO THE TRVE CHRISTIAN WHICH Loveth, Admireth, and conſtantly ſaith <hi>THE LORDS PRAYER.</hi>
+            </head>
+            <head type="sub">P. B. <hi>wiſheth all</hi> ſpirituall <hi>Graces, with</hi> wordly <hi>pro<g ref="char:EOLhyphen"/>sperity in this life, and</hi> eternall <hi>Felicity in the life to come.</hi>
+            </head>
+            <opener>
+               <salute>Good Chriſtian,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>F ever there were a <hi>time</hi> when, if ever a <hi>place</hi> where, Gods <hi>Ministers</hi> and <hi>Watch<g ref="char:EOLhyphen"/>men,</hi> as <hi>Eſay</hi> calleth them,
+<note place="margin">Iſa. 56.10.</note> his <hi>Stewards</hi> and <hi>Embaſſadours;</hi>
+               <note place="margin">Tit. 1.7. 2 Cot. 5.10.</note> as <hi>Paul</hi> nameth them, his <hi>An<g ref="char:EOLhyphen"/>gels</hi> and <hi>Meſſengers;</hi>
+               <note place="margin">Mal. 2.7.</note> as <hi>Malachy</hi> tearmeth them, had need to <hi>cry aloud,</hi> and poure out <hi>their Prayers</hi> before the <hi>Lord,</hi> and to exhort the <hi>People</hi> to doe the ſame: And (of all prayers) eſpecially the <hi>ſacred Prayer</hi> of our moſt gracious <hi>Saviour;</hi> then <hi>now</hi> is the <hi>time here</hi> is the <hi>place:</hi> The <hi>time</hi> is <hi>now,</hi> in this our <hi>age;</hi> the <hi>place</hi> is <hi>here,</hi> in this our <hi>Land,</hi>
+               <note place="margin">In <hi>England</hi> (by the Sepa<g ref="char:EOLhyphen"/>ratiſts (the Lords Prayer is ſo uſed.</note> 
+               <hi>when</hi> and <hi>where it</hi> is either blaſphemouſly <hi>contemned,</hi> wilfully <hi>rejected,</hi> or impudently <hi>neglected.</hi>
+            </p>
+            <pb facs="tcp:112107:3"/>
+            <p> I therefore (though the unworthieſt of the <hi>Sonnes</hi> of <hi>Levi</hi>) have adventured (from a cleare <hi>Text</hi>) both to <hi>expreſſe</hi> and <hi>preſſe</hi> the frequent uſe of <hi>it;</hi>
+               <note place="margin">
+                  <hi>Agn <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ater <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ba, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Cyp</note> that ſo we may have hope of obtaining our <hi>Requeſts.</hi> But (I confeſſe) I ſhould not have (in print) ex<g ref="char:EOLhyphen"/>poſed my ſelfe to the ſnarling of biting <hi>Cen<g ref="char:EOLhyphen"/>ſures,</hi> had not the <hi>constant importunity</hi> of ma<g ref="char:EOLhyphen"/>ry <hi>worthy Friends</hi> perſwaded, and the <hi>rari<g ref="char:EOLhyphen"/>ty,</hi> yet great <hi>neceſſity</hi> of the <hi>Subject</hi> enforced me thereunto. It is my comfort, and encou<g ref="char:EOLhyphen"/>ragement,
+<note place="margin">
+                  <hi>N<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ad d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d ni<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtatetut<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> niſul add<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>m veritate fae l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us.</hi> Greg. Mag. in Ezek.</note> that there is <hi>nothing more ſafe to be defended then honesty: nothing more eaſie to be ſpoken then truth:</hi> And (God is my <hi>witneſſe,</hi> I <hi>lie</hi> not) I know nothing but <hi>ho<g ref="char:EOLhyphen"/>nesty,</hi> and <hi>truth</hi> in <hi>this Sermon;</hi> confirming the <hi>Innocent,</hi> and detecting the <hi>Nocent.</hi> If a<g ref="char:EOLhyphen"/>ny one be offended at <hi>it,</hi> let him know that he hath a <hi>guilty</hi> conſcience: And as for <hi>thee,</hi> (good Chriſtian) <hi>if there be any thing amiſſe,</hi> thy friendly information ſhall be thriſe ac<g ref="char:EOLhyphen"/>ceptable. In the meane time, I entreat thee to <hi>read</hi> with <hi>understanding,</hi> to <hi>remember</hi> what thou doeſt <hi>read;</hi> and the Lord give thee grace to practiſe what thou doeſt <hi>re<g ref="char:EOLhyphen"/>member.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Thine in the Lord Jeſus,</hi> Peter Bales.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:112107:3"/>
+            <head>THE LORDS PRAYER Pleading for better entertainment in the Church of <hi>England.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>LUKE 11. part of Ver. 2.</hi>
+                  </bibl>
+                  <p>Say, Our Father which art in Heaven, &amp;c.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE firſt <hi>verſe</hi> of this <hi>Chapter</hi> containeth the beſt <hi>ſuit</hi> that ever was made to <hi>Chriſt</hi> by his <hi>Diſci<g ref="char:EOLhyphen"/>ples.</hi> Wee read in the holy <hi>Scrip<g ref="char:EOLhyphen"/>ture</hi> of other <hi>ſuits</hi> made to him.</p>
+            <p>The firſt,
+<note place="margin">Mat.</note> for underſtanding of Parables.</p>
+            <p>The ſecond, for increaſe of Faith.
+<note place="margin">Luk.</note>
+            </p>
+            <p>The third, for ſuperiority in his Kingdome.
+<note place="margin">Mat.</note>
+            </p>
+            <p>But this <hi>ſuit</hi> or requeſt, is more eminent, and far above the reſt, for it is the meanes to procure illumi<g ref="char:EOLhyphen"/>nation for underſtanding of Parables, to obtaine in<g ref="char:EOLhyphen"/>creaſe of Faith in laying hold of <hi>Chriſt;</hi> ſuperiority
+<pb n="2" facs="tcp:112107:4"/>in an heavenly, not in a temporall Kingdome o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which they dreamed. And as they ſhewed more piety in this ſuit, then in any other; ſo <hi>Chriſt</hi> ſhew<g ref="char:EOLhyphen"/>eth more grace in this grant then in any other. The firſt ſuit he granted; but with exprobration of their ignorance;
+<note place="margin">Mat. 15.16.</note> 
+               <hi>Are yee alſo without understanding?</hi>
+            </p>
+            <p>The ſecond he granted; but with exprobration of their unbeliefe;
+<note place="margin">Mat. 16.8. Mat. 10.40.</note> 
+               <hi>O yee of little ſaith.</hi> The third he granted not at all, becauſe it was a thing not to be ſued for; but he granted a forme of Prayer, im<g ref="char:EOLhyphen"/>mediately upon their petition: They ſaying, <hi>Lord teach us to pray, as</hi> John <hi>alſo taught his Diſciples; Chriſt</hi> anſwered, <hi>When yee pray, ſay, Our Father which art in Heaven, &amp;c.</hi>
+            </p>
+            <p>My Text then plainly appeareth to be our <hi>Savi<g ref="char:EOLhyphen"/>ours</hi> gracious anſwer to his Diſciples humble moti<g ref="char:EOLhyphen"/>on; wherein you may be pleaſed to obſerve two things, viz. <hi>Quod respondet, &amp; quid respondet.</hi>
+            </p>
+            <p>
+               <list>
+                  <item>Firſt,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> That he anſwers.</item>
+                  <item>Secondly,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> What he anſwers.</item>
+               </list> Begin we with the firſt, That he anſwers.</p>
+            <p>The great <hi>Doctor</hi> of his <hi>Church</hi> never denieth,
+<note place="margin">Quod reſpo.</note> de<g ref="char:EOLhyphen"/>ferreth, or expoſtulateth the caſe with his <hi>Diſciples;</hi> but preſently returneth a gracious anſwer; <hi>When yee pray, ſay, Our Father which art in Heaven, &amp;c.</hi>
+            </p>
+            <p>Firſt,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> He might have taken juſt exception, becauſe they alleadged <hi>John</hi> an <hi>example</hi> to him, of teaching <hi>his Diſciples</hi> to pray: He might have ſaid, Why doe you tell me of <hi>John?</hi> all the grace that <hi>John</hi> hath, is from me.
+<note place="margin">Mat 3.11.</note> Yea, <hi>John</hi> confeſſed himſelfe unworthy to <hi>unlooſe</hi> my <hi>ſhooe,</hi> and may not I now take it in ſcorne,
+<pb n="3" facs="tcp:112107:4"/>that the <hi>Diſciples</hi> of <hi>John</hi> ſhould teach me my duty after the <hi>example</hi> of <hi>John?</hi> Notwithſtanding all this, <hi>Chriſt</hi> to commend his humility, is content both in his preaching and praying to follow <hi>John.</hi>
+               <note place="margin">Mat. 3.10.</note> 
+               <hi>John</hi> ſaid, <hi>Every Tree that bringeth not forth good fruit, is hewen downe and cast into the fire.</hi> And <hi>Chriſt</hi> though he were <hi>the wiſedome of God,</hi> and furniſhed with all manner of Doctrine, was content to borrow that very ſentence from <hi>John-Baptist,</hi> as it is appa<g ref="char:EOLhyphen"/>rent in his <hi>Sermon</hi> on the <hi>Mountaine, Matth.</hi> 7.19. Nay further, he was content alſo to follow him in praying; ſo that the example of <hi>Johns</hi> diligence in teaching <hi>his Diſciples</hi> that duty, was a motive to <hi>him</hi> to doe the like unto them.</p>
+            <p>Secondly, <milestone type="tcpmilestone" unit="unspecified" n="2"/> whereas the <hi>Diſciples</hi> of <hi>Chriſt</hi> tell him, that <hi>John</hi> was wont to teach <hi>his Diſciples</hi> to pray, they ſpake by experience; for diverſe of them were before time <hi>Diſciples</hi> unto <hi>John,</hi> as appeareth in <hi>Joh.</hi> 1.37. And being they were brought up at <hi>Johns</hi> feet to learne to pray, our <hi>Saviour</hi> might have beene juſtly offended at them, that they would be ſuch <hi>Non-proſicients,</hi> under ſuch a <hi>Tutor.</hi> He might have ſaid, what, doe you come to me to teach you to pray? were you <hi>Schollers</hi> ſo long in <hi>John's Schoole,</hi> hearing prayer daily, and yet not able to pray? It ſeemeth <hi>John</hi> hath beſtowed great paines to no pur<g ref="char:EOLhyphen"/>poſe, he hath (in teaching you) onely plowed the rocks, and harrowed the ſands: Why ſhould I take <hi>the Childrens bread</hi> and give it unto you, who have ſo often trampled it under your feet?</p>
+            <p>Laſtly, our <hi>Saviour</hi> might have given them juſtly
+<pb n="4" facs="tcp:112107:5"/>the repulſe, becauſe they no better regarded <hi>his owne prayer</hi> then to forget it: For (you may know) He gave <hi>this Prayer</hi> twice; once <hi>voluntarily,</hi> when he was preaching on the Mountain, which was by them ſoone forgotten, having heard it but once; there<g ref="char:EOLhyphen"/>fore one of the Diſciples (probably ſuppoſed <hi>John</hi>) in the name of all the reſt,
+<note place="margin">Mat. 6.1. Volunta<g ref="char:EOLhyphen"/>rily. 2. By entreaty Luke 11.1.</note> goeth to Chriſt when he was praying, and when he ceaſed, beggeth a forme of prayer; which (notwithſtanding their forgetful<g ref="char:EOLhyphen"/>neſſe) he granteth <hi>speedily, fully, cheerfully.</hi>
+            </p>
+            <p>Our comfortable <hi>Leſſon</hi> from hence is,
+<label type="milestone">
+                  <seg type="milestoneunit">Obſer. </seg>
+               </label> that it is not labour loſt to come to <hi>Chriſt</hi> with our petitions, if they be lawful and good, for <hi>Chriſt is eaſie to be en<g ref="char:EOLhyphen"/>treated:</hi>
+               <note place="margin">Jam. 3.17.</note> 
+               <hi>A preſent helpe in trouble. When you call</hi> (ſaith he) <hi>I will anſwer:</hi>
+               <note place="margin">Pſal. 46.1.</note> 
+               <hi>Call upon me in the time of trouble;</hi>
+               <note place="margin">Pſal. 50.15.</note> 
+               <hi>ſo will I heare thee.</hi> And the <hi>Prophet David</hi> to encourage all men to pray, doth ſet forth the rea<g ref="char:EOLhyphen"/>dineſſe of God to heare prayer:
+<note place="margin">Pſal. 65.2.</note> 
+               <hi>O thou that heareſt prayer, unto thee ſhall all fleſh come.</hi> And <hi>Chriſt</hi> him<g ref="char:EOLhyphen"/>ſelfe telleth us what we in our prayer muſt performe to God, and then (for our comfort) what God for our prayer will performe to us, <hi>Matth.</hi> 7.7. <hi>Aske, and it ſhall be given you; ſeeke, and you ſhall find; knocke, and it ſhall be opened unto you. Aske,</hi> with the mouth, <hi>ſeeke</hi> with the heart, <hi>knock</hi> with the hand, <hi>and it ſhall be given you, and you ſhall find, and it ſhall be opened unto you: And it ſhall be given you,</hi> that is for temporall things: <hi>And you ſhall ſind,</hi> that is for ſpirituall things: <hi>And it ſhall be opened unto you,</hi> that is for eternall things. And Saint <hi>James</hi> telleth us,
+<note place="margin">Jam. 1.5.</note> 
+               <hi>if any man lacke wiſdome, let him aske of God, who
+<pb n="5" facs="tcp:112107:5"/>giveth to all men,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>liberally, and reproacheth no man, and it ſhall be given him.</hi> The <hi>Diſciples</hi> pe<g ref="char:EOLhyphen"/>tition was therefore acceptable to <hi>Chriſt,</hi> becauſe profitable for themſelves; for thus he profeſſeth of himſelfe, <hi>ego Dominus Deus tuus, docens te utilia,</hi>
+               <note place="margin">Eſay 48.17. <hi>utilia non ſub<g ref="char:EOLhyphen"/>tilia.</hi> Aug.</note> 
+               <hi>I am the Lord thy God, which teacheth thee to profit, which leadeth thee by the way that thou ſhouldeſt goe.</hi> Saint <hi>Austin</hi> obſerveth that <hi>Chriſt</hi> puts no <hi>medium</hi> betwixt the <hi>Diſciples</hi> motion, and his grant; they no ſooner had ſaid, <hi>Lord, teach us to pray,</hi> but <hi>Chriſt</hi> anſwered, <hi>When yee pray, ſay, Our Father, &amp;c.</hi>
+               <note place="margin">Thr. mak<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> emir<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>
+            </p>
+            <p>There are three things which doe make a giver eminent.</p>
+            <p>Firſt, to give preſently, for that is to give twice; <hi>Qui cito dat, bis dat.</hi>
+            </p>
+            <p>The ſecond is beyond that, to prevent the asker.</p>
+            <p>The third is beyond that, to put him in mind of asking.</p>
+            <p>And we have <hi>Chriſt</hi> an amiable <hi>Preſident</hi> for all theſe.</p>
+            <p>The firſt he performeth to the <hi>Leper;</hi>
+               <note place="margin">Chr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ted.</note> when the <hi>Leper</hi> came to him and made no petition, onely a ſuppoſition, <hi>Domine ſivis, Lord, if thou wilt, thou canſt make me cleane:</hi> the Text ſaith, that <hi>Jeſus im<g ref="char:EOLhyphen"/>imediately put forth his hand, and touched him, ſaying, I will, be thou cleane;
+<note place="margin">Mat. 8.2, 3.</note> and immediately his leproſie was cleanſed.</hi>
+            </p>
+            <p>The ſecond he putteth in practiſe towards the <hi>Pa<g ref="char:EOLhyphen"/>ralyticke,</hi> which was let downe in the bed to him,
+<note place="margin">Cl ve asl</note> for he ſaid unto him, <hi>ſonne, thy ſinnes are forgiven thee:</hi> here he preventeth his asking the forgiveneſſe of his ſinnes.
+<note place="margin">Mar. 3.5.</note>
+            </p>
+            <pb n="6" facs="tcp:112107:6"/>
+            <p> The third he expreſſeth to the <hi>Impotent-man;</hi>
+               <note place="margin">Chriſt did put in minde of asking. Ioh. 5.6. Mar. 10.51.</note> for when Jeſu, ſaw him lie, and knew that he long time had beene diſeaſed, he ſaid unto him, <hi>wilt thou be made whole?</hi> The like he expreſſeth to the <hi>Blind<g ref="char:EOLhyphen"/>man,</hi> for he ſaid unto him, <hi>what wilt thou that I doe unto thee?</hi>
+            </p>
+            <p>Let us put all theſe together,
+<note place="margin">Applic.</note> and make a <hi>cord</hi> of them, to binde us to the <hi>comfortable dutie</hi> of <hi>prayer;</hi> for by all theſe we have encouragement to goe to <hi>Chriſt;</hi> for if he was ſo ready to ſupply our wants when he was here on earth, much more ready is he to ſupply our wants now he is in heaven, ſitting at the right hand of his Father, and making interceſſion for us. In the midſt therefore of our diſtractions and diſtreſſes, troubles and extremities, let us poure out our prayers before him. If <hi>the bruiſed reed,</hi> tru<g ref="char:EOLhyphen"/>ly humbled, ſhall ſend up ſhort ejaculations, and ſay,
+<note place="margin">Luke 18.13. Mat. 9.2. Luke 7.48. Luke 17.5.</note> 
+               <hi>God be mercifull to me a ſinner,</hi> he ſhall find pre<g ref="char:EOLhyphen"/>ſently an anſwer returned, <hi>Thy ſins are forgiven thee.</hi> If the <hi>ſmoaking flax,</hi> conſcious of its owne weak<g ref="char:EOLhyphen"/>neſſe, ſhall ſend up this petition, <hi>Lord increaſe my faith,</hi> it ſhall have that comfortable anſwer which <hi>Chriſt gave Peter:</hi>
+               <note place="margin">Luke 22.32.</note> 
+               <hi>I have prayed for thee that thy faith faile not.</hi> If <hi>obedient Subjects</hi> (when their religious, upright and gracious King, and their ſinfull, yet <hi>quon<g ref="char:EOLhyphen"/>dam</hi> flouriſhing <hi>Kingdomes</hi> are anguſtiated on every ſide) ſhallwith true penitent hearts cry to God in faith &amp; fervency of ſpirit,
+<note place="margin">Pſa. 132.1.</note> ſaying, <hi>remember David</hi> (we have juſt cauſe to ſay <hi>Charles) with all his afflicti<g ref="char:EOLhyphen"/>on;</hi>
+               <note place="margin">Pſ. 25. ver. ult.</note> and <hi>deliver Iſrael</hi> (our <hi>England and Ireland) out of al their troubles, O God;</hi> they ſhal individually receive
+<pb n="7" facs="tcp:112107:6"/>this comfortable anſwer; <hi>I have heard that which thou haſt prayed me; I have spoyled you, but I will heal you; I have wounded you, but I will bind you up;</hi>
+               <note place="margin">2 King. 19.2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>after two dayes will I revive you, and in the third day I will raiſe you up, and you ſhall live in my ſight.</hi> If a man,
+<note place="margin">Hoſ. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.1, 2.</note> ſeeling himſelfe ſo defective in prayer, as that he cannot pray ſo fluently and fervently as others, ſhall move this petition, <hi>Lord teach me to pray;</hi>
+               <note place="margin">Luke 11.1.</note> he ſhall have this gracious anſwer, <hi>when thou prayeſt, ſay, Our Father which art in Heaven, &amp;c.</hi>
+            </p>
+            <p>So that they which pretend they cannot pray, have no excuſe, for they know where they may be taught, even in <hi>this;</hi> it is but aske, and it ſhall be given you. If <hi>John</hi> taught his <hi>Diſciples</hi> to pray, how much more, and ſooner will <hi>Chriſt</hi> teach thoſe that come to <hi>him?</hi>
+            </p>
+            <p>Thus much for the <hi>Quod respondet,</hi> That <hi>Chriſt</hi> anſwers.</p>
+            <p>Come we now to the <hi>Quid respondet,</hi>
+               <note place="margin">Quid reſp.</note> What <hi>Chriſt</hi> anſwers.</p>
+            <p>His anſwer doth containe a moſt <hi>ſacred prayer</hi> to be uſed when we pray; and therefore publiſhed by two Evangeliſts, <hi>Matthew</hi> and <hi>Luke,</hi> that ſo there might be no ground or colour left for <hi>Heretickes</hi> or <hi>Schiſmatickes</hi> to reject it, for <hi>by the mouth of two or three witneſſes every word may be confirmed</hi> (ſaith our Saviour) and if every word,
+<note place="margin">Mat. 18.16.</note> by the reſtimony of two or three, then undoubtedly the Word of God, by the teſtimony of one; for if <hi>Pythagoras</hi> his <hi>ipſe dixit</hi> was ſuch a <hi>ſtickler</hi> amongſt <hi>his Schollers,</hi> how much more ſhould the <hi>Lord's</hi> be amongſt <hi>his followers? If
+<pb n="6" facs="tcp:112107:7"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:112107:7"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="8" facs="tcp:112107:8"/>we receive the testimony of men</hi> (ſaith Saint <hi>John) the testimony of God is greater.</hi>
+               <note place="margin">1 John 5.9.</note> Loe, here is the te<g ref="char:EOLhyphen"/>ſtimony of him who is both <hi>God</hi> and <hi>man,</hi> and there<g ref="char:EOLhyphen"/>fore the greateſt that may be, and conſequently to be carefully regarded.
+<note place="margin">Mat. 6.9. The Text.</note> Saint <hi>Matthew,</hi> doth ſet downe <hi>this Prayer</hi> as a <hi>rule, coppy,</hi> or <hi>patterne</hi> for prayer; <hi>After this manner pray yee;</hi> Saint <hi>Luke</hi> doth ſet it downe as a <hi>forme, When yee pray, ſay, Our Father, &amp;c. Pray thus,</hi> ſaith Saint <hi>Matthew; pray this</hi> ſaith Saint <hi>Luke.</hi> It hath pleaſed <hi>Almighty God</hi> to put this as a tongue in the head, which is both an inſtrument of ſpeaking and asking it is not onely a <hi>rule</hi> or <hi>coppy</hi> to make other prayers by, but a <hi>forme</hi> to pray, <hi>in totidem verbis.</hi> Even as he that writeth a <hi>coppy</hi> wri<g ref="char:EOLhyphen"/>teth the ſame letters, and after the ſame manner; and as a <hi>picture</hi> to the <hi>beholder</hi> repreſenteth a <hi>man,</hi> and to the <hi>Painter</hi> is a <hi>patterne</hi> to make <hi>others</hi> by; ſo theſe words are a perfect <hi>patterne</hi> which we muſt pray by, and a perfect <hi>forme</hi> which we muſt pray in. So then <hi>this</hi> prayer (as reverend <hi>Calvin</hi> well obſer<g ref="char:EOLhyphen"/>veth) is taken two wayes,
+<note place="margin">Maſter <hi>Calvin</hi>
+               </note> as <hi>regula,</hi> as <hi>forma.</hi>
+            </p>
+            <p>Firſt, as a <hi>rule of prayer.</hi>
+            </p>
+            <p>Secondly, as a <hi>forme of Prayer.</hi> For indeed it is both.
+<note place="margin">A rule of prayer. Exod. 25.9.</note> Firſt, conſider we it as <hi>a rule</hi> of <hi>Prayer. Mo<g ref="char:EOLhyphen"/>ſes</hi> in the building of the <hi>Tabernacle</hi> was comman<g ref="char:EOLhyphen"/>ded to make all things according to the <hi>patterne</hi> ſhewed him in the <hi>Mount;</hi> ſo we are commanded to make all our prayers according to <hi>Christs pat<g ref="char:EOLhyphen"/>terne,</hi> ſhewed in the <hi>Mount.</hi> The abſolute conſide<g ref="char:EOLhyphen"/>ration of it doth not take away the relative: A boundſtone ſo marketh out the ground, as that it is
+<pb n="9" facs="tcp:112107:8"/>ſtill a ſtone: Paternity maketh not a father ceaſe to be a man: So though <hi>Our Father which art in hea<g ref="char:EOLhyphen"/>ven, &amp;c.</hi> be a <hi>prayer in it ſelfe,</hi> yet it is a moſt <hi>per<g ref="char:EOLhyphen"/>fect Patterne, to make other prayers by.</hi> A skilfull builder maketh a goodly houſe, according to the moddell in a peece of paper: So though the <hi>Lords prayer</hi> may be written in a ſmall compaſſe, yet it is ſo large in extent, that all prayers made before, may have reference unto it, and thoſe made after, ſome dependence on it. Pray otherwiſe we muſt not: not as though it were unlawfull for us to uſe another forme; for <hi>Chriſt</hi> gave it twiſe, and there is ſome little difference betweene that of St. <hi>Matthew</hi> and that of St. <hi>Luke;</hi> St. <hi>Luke</hi> hath it, <hi>Say theſe ve<g ref="char:EOLhyphen"/>ry words:</hi> Saint <hi>Matthew</hi> hath it, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Pray on this manner,</hi> or to this purpoſe, according to the inſtructions in this forme contained: <hi>forgive us our debts,</hi> ſaith St. <hi>Matthew: forgive us our trespaſſes,</hi> ſaith St. <hi>Luke: as we ſorgive,</hi> ſaith one; <hi>for we for<g ref="char:EOLhyphen"/>give,</hi> ſaith another: <hi>for thine is the kingdome, &amp;c.</hi>
+               <note place="margin">Beza.</note> ſaith <hi>the one; the other ſaith it not at all.</hi> But Maſter <hi>Beza,</hi> who tooke great paines to ſearch all the <hi>old Coppies</hi> of the <hi>new Teſtament,</hi> to perfect his edition thereof, by comparing them together, doth confeſſe, that in many coppies he found theſe words wanting in Saint <hi>Matthew,</hi> as well as in Saint <hi>Luke;</hi> and that many Interpreters have thought that they were put into the <hi>Text,</hi> as being the common concluſion uſed by the <hi>Christians</hi> in their prayers
+<note n="a" place="margin">As that holy Acclam. ad<g ref="char:EOLhyphen"/>ded at the end of the I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ. <hi>Gloria potrie,</hi> but neither without divine Authority. 1 Chro. 22.11, 12. 2 Cor. 1.3. Reve. 5.13. Pſal. 48.1. <hi>Cyprian, Aug. Hierom.</hi>
+               </note>. Moreover (he ſaith) <hi>three</hi> of the <hi>ancient Fathers</hi> in their expoſiti<g ref="char:EOLhyphen"/>ons on the <hi>Lords Prayer,</hi> have omitted <hi>this concluſi<g ref="char:EOLhyphen"/>on,</hi>
+               <pb n="10" facs="tcp:112107:9"/>and have not ſo much as mentioned it. <hi>Arias Montanus</hi> gives this note upon <hi>Matth.</hi> 6.9. <hi>Ani<g ref="char:EOLhyphen"/>madverte lector, hanc claſſulam non eſſe de textu;</hi> he addeth alſo, in the <hi>Greek Church</hi> the Congregation doth never repeate this clauſe, but when they have with the <hi>Minister</hi> ſaid, <hi>deliver us from evill.</hi> The <hi>Prieſt</hi> onely pronounceth theſe words,
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> 
+               <hi>for thine is the Kingdome.</hi> However it be, (as <hi>Tertullian</hi> obſerveth) it is lawfull to uſe other words; but we muſt ſtill keepe the ſence, therefore he calleth it <hi>legemoratio<g ref="char:EOLhyphen"/>nis,</hi> the <hi>Law of prayer,</hi> as being the <hi>rule</hi> by which we muſt ſquare, or the <hi>mould</hi> wherein we muſt caſt all our <hi>prayers.</hi> And of this judgement was Saint <hi>Au<g ref="char:EOLhyphen"/>ſtin,</hi>
+               <note place="margin">
+                  <hi>Ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> Epiſt. 12<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cap. 12.</note> whoſe words are theſe, <hi>Quamlihet alia verba dicamus, nihil aliud dicimus, quam quod in ista Do<g ref="char:EOLhyphen"/>minica oratione poſitum eſt, ſi recte, &amp; congruenter ora<g ref="char:EOLhyphen"/>mus:</hi> although (when we pray) we may ſay other words if we pray rightly and congruouſly, we ſay no other thing then that which is contained in the Lords Prayer. Of the ſame opinion likewiſe was reverend Maſter <hi>Calvin,</hi>
+               <note place="margin">
+                  <hi>Calvin,</hi> in Matth. 6.9.</note> who writeth thus; <hi>Noluit praeſcri<g ref="char:EOLhyphen"/>bere filius Dei quibus verhis utendum ſit, ut ab ea quam dictavit formula deflectere non liceat, ſed tamen vota nostra ſic dirigere fraenare<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> voluit, ne extra me<g ref="char:EOLhyphen"/>tas istas oberrent:</hi> that it might never be lawfull for us to turne aſide from that forme of prayer, which the ſonne of God hath taught us, the ſonne of God would not ſo ſtrictly preſcribe what words we muſt uſe in our prayers, as if all our prayers muſt be <hi>toti<g ref="char:EOLhyphen"/>dem verbis;</hi> yet for all this, he would ſo direct and bridle our deſites, that they ſhould not wander be<g ref="char:EOLhyphen"/>yond
+<pb n="11" facs="tcp:112107:9"/>their bounds, but be confined within the <hi>con<g ref="char:EOLhyphen"/>tents</hi> of this Prayer, which (indeed) is a <hi>patterne</hi> that hath not a <hi>paralell.</hi>
+            </p>
+            <p>It is an obſervation worthy of your conſideration, that when <hi>Christ's Diſciples</hi> came for an increaſe of their <hi>faith,</hi> he gave them no <hi>forme</hi> for their <hi>faith,</hi>
+               <note place="margin">Luke 17.</note> but left that for <hi>them</hi> to give to the <hi>Church:</hi> But he frameth himſelf to give them a Mappe of <hi>prayer,</hi> that all the <hi>Christian</hi> world might ſpeake the ſame lan<g ref="char:EOLhyphen"/>guage; becauſe he knew we knew not what wee ſhould aske, we aske oftentimes unlawfull things, or lawfull things unlawfully: nay, we are prone to aske hurtfull things. <hi>Alexander</hi> when the <hi>Cynicke</hi> asked a <hi>groat,</hi> ſaid, it was too little for a <hi>King</hi> to give; when he asked a <hi>talent, Alexander</hi> told him, it was too much for a <hi>Cynicke</hi> to aske; ſo when we aske, we either aske things unfit for us to aske, or for God to give. Therefore our bleſſed <hi>Lord</hi> and <hi>Savi<g ref="char:EOLhyphen"/>our,</hi> who was (as Saint <hi>Ambroſe</hi> ſaith) <hi>Confiliarius Patris,</hi> and beſt knew his Fathers ſecrets (being God, he knew what petitions were beſt pleaſing to God; being man, he knew what petitions were beſt ſuit<g ref="char:EOLhyphen"/>able for man) maketh an incomparable <hi>rule</hi> of <hi>prayer</hi> for us, that ſo we might have hope of obtaining our requeſts.
+<note place="margin">Applic.</note> But hath <hi>Chriſt</hi> given us a <hi>prayer written</hi> as a <hi>mould</hi> wherein to caſt, a <hi>touch stone</hi> whereby to try, the <hi>beame</hi> of the <hi>Sanctuary</hi> whereupon to weigh, the certaine <hi>rule</hi> whereby to ſquare all our prayers? why then doe ſo many (in theſe dayes eſpecially) both <hi>Miniſters</hi> and <hi>people,</hi> impudently forſake <hi>this Fountaine of living waters, to digge them pits, even
+<pb n="12" facs="tcp:112107:10"/>broken pits that can hold no water?</hi>
+               <note place="margin">Jer. 2.13.</note> Why doe they ſay deſperatly, by their daily practiſe, we will have none of this prayer for a patterne for all our prayers, for <hi>we have loved ſtrange prayers,
+<note place="margin">Jer. 2.25. A blind <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ade<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h them out of the way.</note> and them will wee follow?</hi> Doe not theſe men follow an <hi>ignis fatuus,</hi> whiles they embrace their owne <hi>Chymeraes,</hi> and <hi>fa<g ref="char:EOLhyphen"/>naticke conciets?</hi> And leaſt that any ſhould ſay, or thinke I have wronged them by this diſcourſe, let us bring to the <hi>touchſtone</hi> their ordinary prayers made and uttered in our <hi>publike Congregations.</hi> None can, or (I hope) will deny (the currant ſtamp onely ex<g ref="char:EOLhyphen"/>cepted) that they preſent to God <hi>rude,</hi> and <hi>undige<g ref="char:EOLhyphen"/>geſted</hi> extemporall evaporations of their deſires; yea,
+<note place="margin">Immethodi<g ref="char:EOLhyphen"/>call prayers.</note> ſuch <hi>tautologies, battologies</hi> and <hi>reiterations,</hi> as no hearer can truly joyne with them in theſe their prayers; for (though they often <hi>licke</hi> them over in one ſermocination) they are no fitter to be com<g ref="char:EOLhyphen"/>pared then to <hi>Beares whelps,</hi> without <hi>forme,</hi> without <hi>faſhion.</hi>
+            </p>
+            <p>And (I pray you tell me) is this the way to pray according to the <hi>Lords prayer?</hi>
+               <note place="margin">Matth. 6.7.</note> hath not our <hi>Saviour</hi> forbidden <hi>vaine repetitions?</hi> is there in <hi>his</hi> prayer one word placed amiſſe? is there an <hi>iota</hi> in it that hath not its full weight? things neceſſary asked out of place,
+<note place="margin">
+                  <hi>Bona oratio quae ordinem ſer vat,</hi> Aug.</note> are not ſo convenient; <hi>Chriſt</hi> teacheth not onely what, but how to aske; He keepeth a good order.</p>
+            <p>Againe,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> that their prayers are <hi>oblong</hi> and <hi>tedious;</hi> for they are an houre,
+<note place="margin">2 Oblong prayers.</note> ſometimes two houres, yea, three houres long; as if words could prevaile with God,
+<note place="margin">Matth. 6.7.</note> and <hi>they ſhould be heard for their much babling;</hi>
+               <pb n="13" facs="tcp:112107:10"/>notwithſtanding the <hi>Wiſeman</hi> telleth us that <hi>our words muſt be ſew;</hi>
+               <note place="margin">Eccleſ. 5.2.</note> and our <hi>Saviour</hi> giveth the reaſon thereof,
+<note place="margin">Matth. 6.8. <hi>Non vocem au<g ref="char:EOLhyphen"/>di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Deus, ſed affectum,</hi> Aug.</note> for <hi>your Father knoweth whereof ye have need be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore ye aske of him.</hi>
+            </p>
+            <p>Is this the way therefore to pray according to the <hi>Lords Prayer,</hi>
+               <note place="margin">Ludolphus <hi>di<g ref="char:EOLhyphen"/>v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ta Chriſti,</hi> part 1. cap. 89.</note> which is ſo ſhort that it may be writ<g ref="char:EOLhyphen"/>ten in the compaſſe of a penny? doth it not containe an ocean of matter in a little current of ſpeech?
+<note place="margin">
+                  <hi>Brevis ſermone capi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſa virtu<g ref="char:EOLhyphen"/>te,</hi> Cypr. ſer. de orat. dom.</note> It is ſhort in words, long in vertue; ſo (if we will make it our <hi>patterne</hi>) our prayers muſt be <hi>fuller</hi> of <hi>devoti<g ref="char:EOLhyphen"/>on</hi> then <hi>words.</hi>
+            </p>
+            <p>Thirdly, <milestone type="tcpmilestone" unit="unspecified" n="3"/> that they preſent to God <hi>immodeſt, irre<g ref="char:EOLhyphen"/>verent</hi> prayers;
+<note place="margin">Immodeſt prayers.</note> for they doe ſollicit God in ſuch <hi>homely, rude,</hi> and <hi>ſawey</hi> language as they dare not tender to men; they are ſo familiar with him as (in their prayers) to tell him <hi>newes</hi> out of their weekly Intelligencer; ſo that their <hi>Diurnals,</hi>
+               <note place="margin">Qui orat, ut qaaſi Deo igno<g ref="char:EOLhyphen"/>ranti ſuam ne<g ref="char:EOLhyphen"/>ceſsitatem ex<g ref="char:EOLhyphen"/>ponat.</note> and <hi>Corantoes</hi> ſtand them in great ſtead: In this their immodeſt carriage and behaviour, they imitate that <hi>ſawcy fellow</hi> whom Saint <hi>Chriſoſtome</hi> repre<g ref="char:EOLhyphen"/>hendeth, who when he prayed, expreſſed his neceſ<g ref="char:EOLhyphen"/>ſity in ſuch a manner as if God had beene ignorant of it.</p>
+            <p>And doe theſe men (likewiſe) pray according to the <hi>Lords Prayer?</hi> Behold its language is <hi>ſad</hi> and <hi>ſe<g ref="char:EOLhyphen"/>rious, grave</hi> and <hi>gracious,</hi> declaring an <hi>holy reverent</hi> zeale, with <hi>true</hi> and <hi>ſanctified</hi> judgement. In that we ſay, <hi>Our Father,</hi> we call upon the bowels of Gods mercy, which begets an <hi>holy holdneſſe:</hi> In that we ſay, <hi>Which art in Heaven,</hi> we invocate the arme of his power, which begets an <hi>holy feare,</hi> and therefore
+<pb n="14" facs="tcp:112107:11"/>(ſaith the <hi>wiſeman</hi>) <hi>Be not raſh with thy mouth, and let not thine heart be haſty to utter any thing before God;</hi>
+               <note place="margin">Eccleſ. 5.2. <hi>Reg.</hi> Bible.</note> 
+               <hi>for God is in Heaven and thou upon Earth.</hi>
+            </p>
+            <p>Laſtly,
+<milestone type="tcpmilestone" unit="unspecified" n="4"/> that they offer up their prayers to God in the <hi>heat of fury,</hi>
+               <note place="margin">Immane pray<g ref="char:EOLhyphen"/>ers. Luke 9.54.</note> as the <hi>two ſonnes of thunder; let fire come from Heaven, and conſume the Samaritans;</hi> And vent the bitterneſſe of their intemperate ſpleen in <hi>curſes,</hi> and <hi>imprecations,</hi> to Gods diſhonour, and the breach of Charity; even againſt thoſe whoſe faces they never ſaw, and from whom they never re<g ref="char:EOLhyphen"/>ceived any wrong.</p>
+            <p>Doe theſe men pray according to the <hi>Lords Pray<g ref="char:EOLhyphen"/>er?</hi> which (as one ſaid) is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>ingaging</hi> of our charity and love; for we deſire to have remiſ<g ref="char:EOLhyphen"/>ſion of ſin no otherwiſe then as we forgive our bre<g ref="char:EOLhyphen"/>thren, whereby the love of our brethren is continu<g ref="char:EOLhyphen"/>ally encreaſed. It runnes altogether in the <hi>plurall number</hi> in a common ſtrane; not <hi>My</hi> Father, but <hi>Our</hi> Father; give <hi>us;</hi> forgive <hi>us;</hi> lead <hi>us</hi> not into temptation; deliver <hi>us</hi> from evill: which kind of expreſſion doth include all men; for <hi>all</hi> men are by creation, and by conſervation, and protection, the <hi>ſonnes</hi> of God, and of theſe God onely knoweth who are <hi>his:</hi> It is not in our power to diſcerne who are <hi>reprobated,</hi> and who are <hi>elected;</hi> they be <hi>all</hi> our <hi>fel<g ref="char:EOLhyphen"/>low creatures,</hi> and the <hi>law</hi> of <hi>Charity</hi> doth bind us to the love of their perſons. We muſt therefore pray for all ſorts of men, not onely for our friends, but for our enemies.
+<note place="margin">Matth. 5.44.</note> Firſt, for our <hi>perſonall</hi> enemies. Secondly,
+<note place="margin">Luke 23.34.</note> for the enemies of our <hi>Country</hi> and <hi>King<g ref="char:EOLhyphen"/>dome.</hi>
+               <pb n="15" facs="tcp:112107:11"/>Thirdly, we muſt pray for the enemies of <hi>Re<g ref="char:EOLhyphen"/>ligion; niſi</hi> Stephanius <hi>oraſſet,</hi>
+               <note place="margin">Jer. 29.7. <hi>Fulgentius.</hi>
+               </note> 
+               <hi>Eccleſia</hi> Paulum <hi>non haluiſſet;</hi> unleſſe Saint <hi>Steven</hi> had prayed for <hi>Saul</hi> the <hi>Church</hi> had never had <hi>Paul.</hi>
+               <note place="margin">Acts 7. ve. ult.</note> And it is Saint <hi>Pauls</hi> exhortation that <hi>ſupplications, prayers, interceſſions, and giving of thankes be made for all men, for Kings,</hi>
+               <note place="margin">1 Tim. 2.2.</note> 
+               <hi>and all that are in authority:</hi>
+               <note place="margin">
+                  <hi>Hominem ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t Deus, pecrato<g ref="char:EOLhyphen"/>rem bama non eſt homo qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſt adverſator, ſed peccator; ora p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o homine ut Deus occidat peccatorem,</hi> Aug.</note> And in his time all <hi>Kings</hi> were perſecuters of the truth. Conſider what God made, and what man made; <hi>God made man, man made the ſinner;</hi> it <hi>is not the man which is thy adver<g ref="char:EOLhyphen"/>ſary, but the ſinner: Pray therefore for the man, that God may ſlay the ſinner; it is a way to destroy our ene<g ref="char:EOLhyphen"/>my, and to ſave the man.</hi> Saint <hi>Paul</hi> did not <hi>kill Ste<g ref="char:EOLhyphen"/>ven,</hi> but Saint <hi>Steven</hi> killed <hi>Saul. David</hi> did not pray againſt the <hi>perſon</hi> of <hi>Achitophel,</hi> but <hi>malignity. O Lord I pray thee turne the Councell of Achitophel into fooliſhneſſe.</hi>
+               <note place="margin">2 Sam. 16.31.</note> We may (I hope then by this time) plainly perceive that <hi>inſtead</hi> of <hi>ſweet ſavour,</hi>
+               <note place="margin">Iſa. 3.24.</note> 
+               <hi>we have ſtinke,</hi> and <hi>instead of a girdle, a rent,</hi> and <hi>burning in<g ref="char:EOLhyphen"/>ſtead of beauty:</hi> Our <hi>Novelists</hi> have made them <hi>croo<g ref="char:EOLhyphen"/>ked pathes;</hi>
+               <note place="margin">Iſa. 59.8.</note> 
+               <hi>Whoſoever goeth therein ſhall not know peace.</hi> Are they not bereft of underſtanding, and true Chriſtianity? they are, ſaith <hi>Hugo Cardinalis,</hi>
+               <note place="margin">
+                  <hi>Hugo Cardin.</hi> in Matth. 6.</note> 
+               <hi>Stulti qui non orant ſicut docuit Chriſtus nec ſunt Chriſti,</hi> they are fooles <hi>(ſaith he)</hi> which doe not pray as Chriſt hath taught, neither are they of Chriſt. <hi>Quiſquis id dicit</hi> (ſaith Saint <hi>Auſtin</hi>) <hi>quod ad iſtam Evangelicam precem pertinere non poſſit,</hi>
+               <note place="margin">
+                  <hi>Aug.</hi> Ep. 121. cap. 12.</note> 
+               <hi>carnaliter orat,</hi> whoſoever praveth that which cannot apper<g ref="char:EOLhyphen"/>taine to this <hi>Evangelicall</hi> prayer, prayeth carnally. Therefore let every good <hi>Chriſtian</hi> individually ſay,
+<pb n="14" facs="tcp:112107:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="15" facs="tcp:112107:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="16" facs="tcp:112107:13"/>
+               <hi>O my ſoule come not thou into their ſecret,</hi>
+               <note place="margin">Gen. 49.6.</note> 
+               <hi>unto their aſſembly mine honour, be not thou united.</hi> Let us not (like the <hi>Cocke</hi> in the <hi>Fable</hi>) preferre the <hi>barly corn</hi> before the <hi>precious gemme;</hi> or (like <hi>Chius</hi>) ſell the <hi>good Wine,</hi> and drink the <hi>dregges</hi> our ſelves; or (like <hi>Glaucus</hi>) change our <hi>gold</hi> for <hi>copper.</hi> Let us not take <hi>darkneſſe for light,</hi>
+               <note place="margin">Iſa. 5.20.</note> 
+               <hi>and light for darkneſſe; bit<g ref="char:EOLhyphen"/>ter for ſweet, and ſweet for bitter:</hi> ſhall we make this bleſſed Prayer of none effect, to promote our owne?
+<note place="margin">Rom. 3.4.</note> 
+               <hi>God forbid:</hi> yea, <hi>let God be true, and every man a lyar;</hi> let the whole <hi>treaſure</hi> of our prayers be contained in this <hi>treaſury;</hi> let us offer the <hi>gold, frankincenſe,</hi> and <hi>myrrhe</hi> of prayers, and thankſgive<g ref="char:EOLhyphen"/>ings, alwayes on this holy <hi>Altar;</hi> for, <hi>whoſoever wal<g ref="char:EOLhyphen"/>keth according to this rule,</hi>
+               <note place="margin">Gal. 6.16.</note> 
+               <hi>peace ſhall be upon him, and mercy, and upon the Iſrael of God.</hi>
+            </p>
+            <p>So much for the firſt conſideration of this pray<g ref="char:EOLhyphen"/>er, <hi>viz.</hi> as it is <hi>Regula,</hi> or, a rule of prayer: Come we <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow to the ſecond conſideration of it,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>viz.</hi> as it is <hi>Forma,</hi>
+               <note place="margin">A prayer of it ſelfe.</note> or, a prayer of it ſelfe.</p>
+            <p>All the <hi>Petitions</hi> contained in <hi>this</hi> prayer, were uſed by our <hi>Saviour Chriſt</hi> in the dayes of his fleſh, as he tooke our nature; for ſometimes he prayed <hi>for the honouring his Fathers name;</hi> ſometimes, <hi>for the inlarging of his Kingdome;</hi> ſometimes, <hi>for fulfilling of his will;</hi> ſometimes, <hi>for multiplication of bread;</hi> ſometimes, <hi>for deliverance from temptation.</hi> But one <hi>petition</hi> ſeemeth repugnant; <hi>forgive us our treſ<g ref="char:EOLhyphen"/>paſſes;</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> for how could <hi>he</hi> pray ſo, who never knew ſinne?</p>
+            <p>He might pray this,
+<label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>1</label> having a <hi>fellow-feeling</hi> of
+<pb n="17" facs="tcp:112107:13"/>the <hi>Churches</hi> miſeries; he was the head of a body,
+<note place="margin">2 Cor. 5.21.</note> and was made ſinne for us, and ſo did not onely con<g ref="char:EOLhyphen"/>feſſe himſelfe a ſinner, but ſuffered the wrath of God for it; which made him cry, <hi>Deus mi,</hi>
+               <note place="margin">Mat. 27.46. Rom. 15.3. Pſal. 69.9.</note> 
+               <hi>Deus mi, My God, my God, why haſt thou forſaken me? The rebukes of them that rebuked thee, fell on me.</hi>
+            </p>
+            <p>Againe,
+<label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>2</label> you may beleeve that our <hi>Saviour</hi> did not recite it, as <hi>his</hi> prayer unto <hi>God;</hi> but left it as a prayer unto his <hi>Church.</hi> There is a diſtinction made of the whole prayer in the <hi>Leſſon,</hi> and in the <hi>Liturgie:</hi> In the <hi>Leſſon</hi> it is commended by God to us; in the <hi>Liturgie,</hi> we commend our ſelves to God by it. And although <hi>Chriſt</hi> did not uſe it as a <hi>prayer</hi> (though it might be ſo) yet certainly he commen<g ref="char:EOLhyphen"/>ded it as a <hi>forme</hi> unto the <hi>Church.</hi> And albeit wee read not in any place of holy <hi>Scripture,</hi> that the <hi>Apostles</hi> uſed <hi>this forme of prayer;</hi> in reaſon we are to ſuppoſe, that as they were <hi>Diſciples,</hi> and were ignorant, they uſed it as a prayer; as they were <hi>Apostles</hi> and had the gift of prayer, they uſed it as a <hi>patterne</hi> to others.</p>
+            <p>That it was given as a prayer we need not, wee ought not to doubt; therefore we ſee it uſed in all the <hi>Liturgies</hi> of the <hi>Primitive Church</hi> (as in the <hi>Li<g ref="char:EOLhyphen"/>turgies</hi> of Saint <hi>James,</hi> of Saint <hi>Baſil,</hi> of the <hi>Syri<g ref="char:EOLhyphen"/>ans,</hi> of the <hi>Ethiopians,</hi>
+               <note place="margin">Marg. Biblio<g ref="char:EOLhyphen"/>the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. pat.</note> and in the <hi>Liturgie</hi> of Saint <hi>James</hi> there are theſe words prefixed; <hi>Vouchſafe us O Lord, this confidence, that we may dare to pray unto thee and ſay, Our Father which art in Heaven, &amp;c.</hi> And that it was thus intended, it is plaine by the words. Our <hi>Saviour</hi> doth not ſay, pray that <hi>Gods
+<pb n="18" facs="tcp:112107:14"/>name may be hallowed,</hi> his <hi>Kingdome</hi> come, &amp;c. in any other forme, but he bindeth them to the ſame words (as upon a juſt occaſion he ſaith) pray <hi>non in hunc modum, ſed haec verba; When ye pray, ſay, Our Father, &amp;c.</hi> And this is the reaſon why it is ſo often uſed in the <hi>Liturgie, Communion, Baptiſme</hi> and eve<g ref="char:EOLhyphen"/>ry particular <hi>Rite</hi> in our <hi>Church:</hi> It is ſo, that if any thing be defective in our prayers, or forgotten, which were fit to be asked, we may quicken our ſen<g ref="char:EOLhyphen"/>ſes and recollect our ſelves by the ſweet recitall of this prayer, which if a man could ſpeake with the largeneſſe of affection, that the words will beare, he needeth no other prayer. And therefore we make it (at the leaſt we ought) the <hi>clauſe</hi> and <hi>end</hi> of <hi>all</hi> our <hi>prayers.</hi>
+               <note place="margin">Cyprian, de orat. Dom.</note>
+            </p>
+            <p>It is good (ſaith Saint <hi>Cyprian</hi>) <hi>to aske God in his owne words;</hi> for <hi>what is more likly to prevaile with God,</hi>
+               <note place="margin">Quae poteſt eſſe magis ſpi<g ref="char:EOLhyphen"/>ritualis oratio quam quae a Chriſto nobis data eſt, a quo nobis &amp; ſpiri<g ref="char:EOLhyphen"/>tus ſane<g ref="char:cmbAbbrStroke">̄</g>tus m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſus eſt, &amp;c.</note> 
+               <hi>then that which was made by God himſelfe?</hi> It beginneth with <hi>Kingdome,</hi> and endeth with <hi>Glory:</hi> It is the <hi>beſt forme</hi> that ever was made (ſaith that holy, and bleſſed <hi>Martyr</hi>) for what more <hi>excellent,</hi> and <hi>true prayer</hi> can there be, then that which was made by <hi>excellency</hi> and <hi>truth</hi> it ſelfe? It is the moſt <hi>spirituall forme;</hi> for it was given by the <hi>holy spirit.</hi> Saint <hi>Austin</hi> preaching upon this prayer,
+<note place="margin">
+                  <hi>Aug. de temp. ſerm.</hi> 126.</note> doth fall into admiration of it ſaying, <hi>O vere coeleſtis oratio, quae tota eſt oratio;</hi> O truly celeſtiall prayer, which is all prayer:
+<note place="margin">Mr. <hi>Calvin</hi>
+               </note> And reverend <hi>Calvin</hi> likewiſe learned<g ref="char:EOLhyphen"/>ly and judiciouſly falleth into admiration, of the loving kindneſſe of <hi>Chriſt</hi> towards us: <hi>Dum unige<g ref="char:EOLhyphen"/>nitus Dei filius nobis verba in os ſuggerit, quae mentem
+<pb n="19" facs="tcp:112107:14"/>noſtram omni haeſitation<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> expediant:</hi> In that he put<g ref="char:EOLhyphen"/>teth words into our mouth, which may free our mind of all doubting.</p>
+            <div type="part">
+               <head>For five things is this Prayer to be commended.</head>
+               <p>Firſt, it is to be <hi>commended,</hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> becauſe it is a <hi>publike forme;</hi> it was ſo intended by our <hi>Saviour Chriſt,</hi>
+                  <note place="margin">A publike forme.</note> as it plainly appeareth by its running in the <hi>plurall number:</hi> Not <hi>my</hi> Father, but <hi>Our</hi> Father, &amp;c. Hence it was well noted by Saint <hi>Greg.</hi> that al<g ref="char:EOLhyphen"/>though in the <hi>latine Church</hi> it was ſaid by the <hi>Prieſt</hi> onely; yet in the <hi>Greek Church</hi> it was ſaid by <hi>all</hi> the <hi>people,</hi> as being intended <hi>publike forme;</hi> not but that we ſhould uſe it in private, as a <hi>clauſe</hi> of our prayer; for it is a prayer as well for the <hi>cloſet,</hi>
+                  <note place="margin">Matth. 6.6.</note> as for the <hi>Church: When thou entreſt into thy cloſet, pray after this manner:</hi> for though then a man prayeth alone, yet muſt he not pray for himſelfe alone; <hi>qui ſibi ſoli orat, ſolus orat,</hi> ſaith Saint <hi>Austin,</hi> whoſo<g ref="char:EOLhyphen"/>ever prayeth for himſelfe alone, prayeth alone and hath not God hearing him; therefore in the <hi>publike Congregations,</hi> and in our <hi>cloſets,</hi> let us ſay, <hi>Our Fa<g ref="char:EOLhyphen"/>ther which art in Heaven, &amp;c.</hi>
+               </p>
+               <p>Secondly, <hi>this</hi> prayer is to be <hi>commended,</hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <note place="margin">A ſet forme.</note> becauſe it is a <hi>ſet forme;</hi> it is plaine and evident by the give<g ref="char:EOLhyphen"/>ing of it: <hi>Chriſt</hi> gave it twife in the <hi>ſame words,</hi> and <hi>ſame forme;</hi> nay, if he had beene deſired a forme of prayer a thouſand times, he would have given the <hi>ſame forme.</hi> Therefore juſty may we diſlike <hi>Concep<g ref="char:EOLhyphen"/>tuaries,</hi> which conceive of other formes, and ſay it
+<pb n="20" facs="tcp:112107:15"/>is a <hi>ſtinting</hi> of the <hi>Spirit,</hi> to pray in a <hi>ſet forme:</hi> for rather we may ſay, to pray in another forme with<g ref="char:EOLhyphen"/>out premeditation is to abandon the <hi>Spirit.</hi> This <hi>monstrous</hi> conceit of <hi>conceived prayers,</hi> without any premeditation,
+<note place="margin">
+                     <hi>Pur.</hi> and <hi>Br.</hi> pag. 9.</note> ſpoyleth both the <hi>Father</hi> and the <hi>Sonne</hi> (as <hi>King James</hi> ſaith in his learned and godly expoſition of the <hi>Lords prayer</hi>) I juſtly call it mon<g ref="char:EOLhyphen"/>ſtrous (ſaith he) ſince they will have a thing both conceived and borne at once, contrary to nature, which will have every thing to lie in the belly of the mother a certain time after the conception, there to grow and ripen before it be produced; and this is the univerſall courſe of <hi>nature,</hi> as well in <hi>animal,</hi> as <hi>ve<g ref="char:EOLhyphen"/>getable</hi> things, yea, even in <hi>minerals</hi> within the bow<g ref="char:EOLhyphen"/>els of the earth. And in this <hi>Grace</hi> imitates <hi>Nature,</hi> not producing any perfect worke at the firſt, but by degrees. Yet (I confeſſe) when a man can ſwimme well, he may caſt away his bladders; when the Cripple can walke well, he may throw away his ſtaffe; yet there is a <hi>decorum</hi> to be kept, even by him that hath the beſt gift that way. If a man hath the gift of praier, it is not <hi>unlawfull</hi> to uſe a <hi>ſet forme,</hi> eſpecially in <hi>publike;</hi> for when we know before what to pray, it is a meanes to ſtirre up our affecti<g ref="char:EOLhyphen"/>ons, and to keepe them in good tune; but by <hi>acci<g ref="char:EOLhyphen"/>dent</hi> it is a meanes to <hi>coole</hi> our <hi>zeale,</hi> when we have a prayer by roat, when we mind the words onely: Yet certainly it is a good helpe to thoſe, which are not come to a degree of excellency in this gift; therefore (as one ſaith) ſo keepe a <hi>ſet forme,</hi> as that ye <hi>varie,</hi> and ſo <hi>varie,</hi> as that it be grounded up<g ref="char:EOLhyphen"/>on
+<pb n="21" facs="tcp:112107:15"/>
+                  <hi>this forme,</hi> and then conclude ſaying, <hi>Our Fa<g ref="char:EOLhyphen"/>ther, &amp;c.</hi>
+               </p>
+               <p>Thirdly, this prayer is to be <hi>commended,</hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                  <note place="margin">A plain form.</note> becauſe it is a moſt <hi>plaine</hi> and <hi>perspicuous forme,</hi> being eaſie to ſuch as deſire to informe themſelves, what, and how to pray. <hi>Obſcurity</hi> is in nothing ſo <hi>odious</hi> as <hi>prayer;</hi> they which pray in an unknown tongue, pray not by the ſpirit, becauſe <hi>to pray without underſtand<g ref="char:EOLhyphen"/>ing is to offer ſtrange incenſe;</hi> ſo that I may uſe the words of <hi>Malachy,</hi>
+                  <note place="margin">Mal. 1.8.</note> to ſuch as put up prayers to God which they underſtand not; <hi>Goe now and offer this to thy Prince, and ſee if he will accept thy perſon:</hi> will not he thinke himſelfe abuſed, and diſmiſſe thee with ſome ſharpe puniſhment? the bruit Beaſts may pray better, for they have naturall and inarticu<g ref="char:EOLhyphen"/>late voices;
+<note place="margin">Pſal 147.9.</note> 
+                  <hi>the Ravens are fed of God when they call upon him,</hi> their croaking is a kind of invocation; <hi>the Lions roaring after their prey</hi> is a prayer. When men know not what they pray,
+<note place="margin">
+                     <hi>Praedatio eo<g ref="char:EOLhyphen"/>rum precatio,</hi> Aug.</note> how can <hi>God</hi> or <hi>themſelves</hi> ſay <hi>Amen</hi> to their prayers; their praying is neither a <hi>spirituall,</hi> nor a <hi>reaſonable ſervice:</hi> Therefore the <hi>Fathers</hi> doe paralell this praying in an unknowne tongue, to <hi>Caligula's</hi> banquet, who did ſet before his friends <hi>golden diſhes,</hi> and bad them eate; but they found them hard meat, and roſe up more hungry then before. The <hi>Romiſh Prieſts</hi> doe ſet before the people rather <hi>braſen diſhes,</hi> their ſoules are ſtarved becauſe they cannot eate: But if they were golden,
+<note place="margin">
+                     <hi>Quid prodeſt clauis aurea ſi non aperiat? quid obeſt lig<g ref="char:EOLhyphen"/>nea ſi aperiat?</hi> Aug.</note> what good could they get by them? <hi>What doth a gol<g ref="char:EOLhyphen"/>den key profit us, if it cannot open our doore? what doth a wooden one hinder us, if it can open our doore?
+<pb n="22" facs="tcp:112107:16"/>Caelius Rhodoginus</hi> writeth, that <hi>Cardinall Aſcanius</hi> had a <hi>Popinjay,</hi>
+                  <note place="margin">Lib 3 32.</note> that could pronounce diſtinctly all the <hi>articles</hi> of the <hi>Creed;</hi> ſuch <hi>Popinjayes,</hi> or <hi>Dau<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> are the <hi>Papiſts,</hi> who can ſay, <hi>Pater noster;</hi> yet not <hi>Our Eather:</hi> If the <hi>Prieſt</hi> juggle as well in this, as in other things, he may teach the common people as well to curſe as bleſſe God, for ought they know, <hi>Let us therefore pray with the spirit;</hi>
+                  <note place="margin">1 Cor. 14.15.</note> 
+                  <hi>but let us pray with understanding alſo:</hi>
+                  <note place="margin">
+                     <hi>Lingua ſonet, men<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>autem ſc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>utetur ſen<g ref="char:EOLhyphen"/>ſum <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>orum quae dicuntur. Baſil</hi> in Pſ. 28.</note> Let us take Saint <hi>Baſils</hi> rule, <hi>Let thy voice be heard; but let thine understanding find out the ſence of thoſe things which are spoken,</hi> and ſo let us ſay, <hi>Our Father which art in heaven, &amp;c.</hi>
+               </p>
+               <p>Fourthly, <hi>this</hi> prayer is to be <hi>commended,</hi> becauſe it is a <hi>briefe forme;
+<milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                     <note place="margin">A brief form.</note> Lycurgus</hi> injoyned the people to offer <hi>little ſacrifices</hi> unto their <hi>Gods;</hi> (for ſaith he) they reſpect more the inward affection then the out<g ref="char:EOLhyphen"/>ward action:
+<note place="margin">Matth. 6.8. Matth. 23.14.</note> A rule which our Maſter Chriſt hath given us: <hi>When ye pray uſe not much babling:</hi> And he condemned the <hi>Phariſes</hi> for their <hi>long</hi> prayers. And behold <hi>this</hi> prayer (which he hath given us to ſay) is a ſhort one, &amp; that for theſe Reaſons, which <hi>Ludolphus</hi> reciteth: Firſt, <hi>to be eaſier learned.</hi> Secondly, <hi>to be better remembred.</hi> Thirdly, <hi>to be oftener repeated.</hi> Fourthly,
+<note place="margin">
+                     <hi>Non tumultuo<g ref="char:EOLhyphen"/>ſa loquacitas; ſed affectio cor<g ref="char:EOLhyphen"/>dis apud Deum praevalet,</hi> Aug.</note> 
+                  <hi>to aſſure us that God heareth us the ſooner.</hi> Fifthly, <hi>that we may not ſo much respect words, as devo<g ref="char:EOLhyphen"/>tion. It</hi> ſheweth us that <hi>it is not tumultuous babling, but fervency of affection, that prevaileth with God.</hi> The forme of the <hi>Decalogue</hi> is reduced unto ten words; nay, by Chriſt unto two; nay, to one word; <hi>love: mica ſalis,</hi> it is the grain of ſalt which ſeaſoneth every part of our obedience. Likewiſe the <hi>Creed</hi> is reduced
+<pb n="23" facs="tcp:112107:16"/>unto twelve <hi>Articles,</hi> thoſe twelve to ſix, thoſe ſix to two; what we beleeve in, and what we beleve of. <hi>This Prayer,</hi> for brevity ſake, is reduced to ſix <hi>petiti<g ref="char:EOLhyphen"/>ons;</hi> for thoſe prayers are beſt which are ſhorteſt, and moſt full of affection:
+<note place="margin">Sir <hi>Rich. Bak.</hi>
+                  </note> 
+                  <hi>With the length or elegancy of our prayers, as God is not wearied, ſo he is not de<g ref="char:EOLhyphen"/>lighted; but Devotion is the length, and Faith is the Eloquence, which while with perſwaſions they importune him, with importunity they perſwade him.</hi> And there<g ref="char:EOLhyphen"/>fore the <hi>Church</hi> hath preſcribed <hi>Collects,</hi> prayers an<g ref="char:EOLhyphen"/>ſwerable to this <hi>ſhort</hi> prayer of our <hi>Saviour Chriſt.</hi> Let it not then be irkſome unto us when we pray, to ſay, <hi>Our Father which art in Heaven, &amp;c.</hi>
+               </p>
+               <p>Laſtly, this prayer is to be <hi>commended,</hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+                  <note place="margin">A perfect forme. <hi>Quantum re<g ref="char:EOLhyphen"/>ſtringitur in verbis, tantum diſſunditur,</hi> Tertul. <hi>lib. d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> orat.</hi>
+                  </note> becauſe it is a <hi>perfect forme. By how much it is ſtreightned in words; by ſo much it is defuſed in ſignification:</hi> It may well be called a <hi>world</hi> of prayer; for <hi>this</hi> is the <hi>little world</hi> which <hi>Chriſt</hi> made upon earth: As the world conſiſteth of Heaven and earth, ſo this prayer con<g ref="char:EOLhyphen"/>ſiſteth of heavenly and earthly petitions: As the whole <hi>frame</hi> of <hi>Nature</hi> was made in <hi>ſix dayes,</hi> ſo Chriſt giveth us a forme of prayer in <hi>ſix petitions,</hi> anſwerable to the <hi>ſix dayes. Protegenes</hi> the <hi>Painter</hi> being from home, <hi>Apollo</hi> (in the meane time) came to his ſhop and drow a line; by the eveneſſe and ſtraightneſſe thereof, <hi>Protogenes</hi> knew that <hi>Apollo</hi> had beene there: ſo by the eveneſſe and ſtraight<g ref="char:EOLhyphen"/>neſſe of this prayer, and excellent ontracting of the <hi>Petitions,</hi> though the <hi>Gospell</hi> had not mentioned the <hi>Author</hi> of it, we might have eaſily geſſed that <hi>Chriſts spirit</hi> had been there.</p>
+               <pb n="24" facs="tcp:112107:17"/>
+               <p> This Prayer is <hi>perfect,</hi> in reſpect of the <hi>Author, Order, Matter.</hi>
+               </p>
+               <p>Firſt,
+<note place="margin">Author. 1 Cor. 13.</note> it is <hi>perfect,</hi> in reſpect of the <hi>Author</hi> of it. The <hi>Apostle</hi> ſaith, <hi>If J had the tongue of men and Angels.</hi> His meaning is, that the <hi>tongues</hi> of <hi>Angels</hi> were more <hi>glorious</hi> then the <hi>tongues</hi> of <hi>men;</hi> and therefore that ſong of the <hi>Angels,
+<note place="margin">Iſa. 6.3.</note> Holy, Holy, Holy,</hi> is magnified in the <hi>Church:</hi> But this prayer was formed by the <hi>tongue</hi> of <hi>Chriſt,</hi> who is the Lord of <hi>Angels.</hi> It was compiled by him who is the <hi>wiſdome of God,</hi> and therefore cannot be but perfect,
+<note place="margin">Deut. 32.4.</note> 
+                  <hi>quia perfecta ſunt opera Jehovae; becauſe all the workes of the Lord are perfect.</hi>
+               </p>
+               <p>Secondly,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <note place="margin">Method.</note> it is <hi>perfect,</hi> in reſpect of the <hi>Method,</hi> or <hi>Order</hi> of it. If man did make a prayer, he would be<g ref="char:EOLhyphen"/>gin at <hi>daily bread;</hi>
+                  <note place="margin">Matth. 6.33.</note> but <hi>Chriſt</hi> in this prayer teacheth us, firſt <hi>to ſeeke the Kingdome of God.</hi> The <hi>Lacedemo<g ref="char:EOLhyphen"/>nians</hi> uſed to aske of their Gods
+<list>
+                     <item>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>,</item>
+                     <item>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>,</item>
+                     <item>Things <hi>uſefull.</hi>
+                     </item>
+                     <item>Things <hi>excellent.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>So in <hi>this</hi> prayer we begge things <hi>excellent,</hi> in the <hi>three firſt petitions,</hi> and in the <hi>two laſt;</hi> and things <hi>uſefull</hi> or <hi>neceſſary,</hi> in the fourth. It is a moſt excel<g ref="char:EOLhyphen"/>lent order; for therein we firſt ſeeke Gods glory, af<g ref="char:EOLhyphen"/>terward our owne good: The <hi>three firſt petitions</hi> concerne God, and doe begin with his glory: The firſt <hi>bringeth it in;</hi> the ſecond <hi>amplifieth it:</hi> The third <hi>conſummates it.</hi> The three laſt doe concerne <hi>our ſelves;</hi> the fourth is for <hi>temporals;</hi> the fifth and ſixth are for <hi>spirituals:</hi> For <hi>temporals,</hi> in removing things <hi>occaſionally evill,</hi> as <hi>afflictions;</hi> for <hi>spirituals,</hi> in removing things <hi>ſimply evill,</hi> as <hi>ſinne.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="25" facs="tcp:112107:17"/>
+               <head>Others doe thus diſtinguiſh them.</head>
+               <p>The firſt petition reſpecteth God:
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> All the reſt re<g ref="char:EOLhyphen"/>ſpect us in a threefold eſtate: firſt of <hi>Glory: Thy Kingdome come.</hi> Secondly, of <hi>Grace:</hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+                  <hi>Thy will be done even in earth as it is in Heaven, Forgive us our trespaſſes, &amp;c. Lead us not into temptation: but de<g ref="char:EOLhyphen"/>liver us from evill.</hi> Thirdly, of <hi>Nature:</hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+                  <hi>Give us this day our daily bread.</hi> As it is thus <hi>perfect,</hi> in reſpect of the <hi>Method:</hi> So, in reſpect of the <hi>Matter.</hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                  <note place="margin">Matter.</note>
+               </p>
+               <p>It is ſo large a <hi>Theme</hi> that we may loſe our ſelves in it: The conſideration whereof made Saint <hi>Cypri<g ref="char:EOLhyphen"/>an</hi> cry out, <hi>Qualia, &amp; quam malta Sacramenta! How many excellent mysteries in this</hi> prayer!</p>
+               <p>It is a prayer of it ſelfe, and every word in it is a prayer: There is not one word wanting, that ſhould be put in, nor any word more then ought to be.
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> It containeth in it all the <hi>Articles</hi> of the <hi>Creed;</hi>
+                  <note place="margin">The Creed</note> they are <hi>twelve:</hi> here are <hi>ſix petitions:</hi> Thoſe <hi>twelve</hi> may be reduced to <hi>ſix,</hi> anſwerable to theſe <hi>ſix peti<g ref="char:EOLhyphen"/>tions.</hi> Firſt, as we beleeve in God; ſo we pray that God would ſhew himſelfe <hi>Omnipotent,</hi> in preſerving us in the way to Heaven, by giving us things neceſſa<g ref="char:EOLhyphen"/>ry for this life: The <hi>fourth petition</hi> anſwerable to the <hi>firſt article.</hi> As (in the other <hi>articles</hi> which con<g ref="char:EOLhyphen"/>cerne Chriſt) we beleeve that <hi>Chriſts</hi> merits are ſuf<g ref="char:EOLhyphen"/>ficient; ſo we pray here that whatſoever <hi>Chriſt</hi> did ſuffer, might be efficacions to bring us to his <hi>King<g ref="char:EOLhyphen"/>dome,</hi> to <hi>doe his will,</hi> to aſſure us of <hi>remiſſion of ſins,</hi> and preſervation <hi>from all evill.</hi> As (in the <hi>Creed</hi>) we beleeve that the <hi>Holy Ghoſt</hi> is a <hi>ſanctifier;</hi> ſo here we pray that he would be ſo to us. In the <hi>Creed,</hi> we beleeve the <hi>Communion</hi> of <hi>Stints:</hi> here we pray for it.</p>
+               <p>Againe, it containeth all the <hi>ten Commandements;</hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <pb n="22" facs="tcp:112107:18"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="23" facs="tcp:112107:18"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="24" facs="tcp:112107:19"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="25" facs="tcp:112107:19"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="26" facs="tcp:112107:20"/>for as in <hi>them</hi> are contained all good things to be done;
+<note place="margin">The ten Com.</note> ſo <hi>here</hi> we begge grace to doe them. As all the <hi>Commandements</hi> of the <hi>Decalogue</hi> are reduced to <hi>two heads;</hi> ſo all the <hi>Petitions</hi> of the <hi>Lords Prayer</hi> are reduced to <hi>two heads:</hi> we begge things for <hi>Gods glory,</hi> and <hi>our owne good.</hi> The ſumme of the <hi>firſt Ta<g ref="char:EOLhyphen"/>ble</hi> is anſwerable to the <hi>three firſt Petitions,</hi> and the ſumme of the <hi>ſecond Table</hi> is anſwerable to the <hi>three laſt.</hi>
+                  <note place="margin">
+                     <hi>Totius Evan<g ref="char:EOLhyphen"/>gelu breve compend <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m,</hi> Tertul. <hi>lib. de orat.</hi> cap. 1.</note> As the <hi>old Testament</hi> is a Comment upon the <hi>Decalogue,</hi> ſo is the <hi>New</hi> upon <hi>this Prayer,</hi> which is (ſaith <hi>Tertullian</hi>) the <hi>Gospels Epitome.</hi>
+               </p>
+               <p>Thirdly,
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> it is a <hi>Compendium of all wants:</hi> Upon aloc<g ref="char:EOLhyphen"/>caſons,
+<note place="margin">All wants.</note> we may have recourſe unto this prayer. When <hi>Gods</hi> Name is blaſphemed, we may fly to the <hi>firſt Pe<g ref="char:EOLhyphen"/>tition,</hi> and ſay, <hi>Lord, ſanctifie thy holy name.</hi> When <hi>Piety</hi> is trodden under foote, we may runne to the <hi>ſecond,</hi> and ſay, <hi>Thy Kingdome come.</hi> When we find in us an <hi>inability</hi> to doe <hi>Gods will,</hi> we may have re<g ref="char:EOLhyphen"/>courſe unto the <hi>third;</hi> beſeeching God ſo to enable us <hi>to doe his will here on earth, as it is done in Hea<g ref="char:EOLhyphen"/>ven</hi> by the bleſſed <hi>Angels.</hi> When we ſtand in need of <hi>tempor all things,</hi> we may expreſſe the <hi>fourth;</hi> ſay<g ref="char:EOLhyphen"/>ing, <hi>give us this day our daily bread.</hi> When we find our ſelves <hi>burthened</hi> with <hi>ſin,</hi> we thirſt after the <hi>fifth,</hi> and ſay, <hi>Forgive us our trespaſſes as we forgive them that treſpas againſt us.</hi> When we are <hi>aſſulted</hi> by <hi>temp<g ref="char:EOLhyphen"/>tations,</hi> we may with comfort imbrace the <hi>ſixth,</hi> and ſay, <hi>lead us not into temptation but diliver us from evil.</hi>
+               </p>
+               <p>Fourthly and laſtly,
+<milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                  <note place="margin">All kinds of prayer.</note> it is a <hi>Compendium of all kinds of prayer.</hi> It containeth all that were made by the <hi>Prophets</hi> of old; the prayers of <hi>Moſes, David, Sa<g ref="char:EOLhyphen"/>muel, Daniel, &amp;c.</hi> And all the prayers of the <hi>Apostles</hi>
+                  <pb n="27" facs="tcp:112107:20"/>in the <hi>new Testament.</hi> The <hi>Apostle Paul</hi> doth ſet downe <hi>four kinds of prayer,</hi> in 1 <hi>Tim.</hi> 2.1.</p>
+               <p>The firſt is, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Deprecation</hi> of evill.
+<note place="margin">1 Tim. 2.1.</note>
+               </p>
+               <p>The ſecond is, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Comprecation</hi> of good.</p>
+               <p>The third is, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Interpellation,</hi> or <hi>Interceſſi<g ref="char:EOLhyphen"/>on</hi> for others.</p>
+               <p>The fourth is, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Thankſgiving,</hi> or <hi>Bleſſing</hi> God for our ſelves and others.</p>
+            </div>
+            <div type="part">
+               <head>All theſe are contained in <hi>this Prayer.</hi>
+               </head>
+               <p>Firſt,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+                  <hi>Deprecation</hi> is contained in the two laſt pe<g ref="char:EOLhyphen"/>titions: <hi>Forgive us our trespaſſes, &amp;c. lead us not in<g ref="char:EOLhyphen"/>to temptation, but deliver us from evill.</hi>
+               </p>
+               <p>Secondly,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+                  <hi>Comprecation</hi> is comprehended in all the <hi>other petitions.</hi>
+               </p>
+               <p>Thirdly, <hi>Interceſſion</hi> ſhineth in every word:
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+                  <hi>Our</hi> Father; give <hi>us:</hi> forgive <hi>us, &amp;c.</hi>
+               </p>
+               <p>Fourthly,
+<milestone type="tcpmilestone" unit="unspecified" n="4"/> 
+                  <hi>giving of thanks</hi> appeareth in the <hi>Doxo<g ref="char:EOLhyphen"/>logie: For thine is the Kingdome, the power, and the glory for ever, Amen.</hi>
+               </p>
+               <p>Nay, there are all theſe <hi>in every Petition:</hi> For as in the <hi>Commandement,</hi> it is a generall rule, that where the <hi>affirmative</hi> part is <hi>commanded,</hi> there the <hi>negative</hi> is <hi>forbidden,</hi> and on the <hi>contrary:</hi> So in theſe <hi>Petiti<g ref="char:EOLhyphen"/>ons,</hi> where we pray for any good, there we pray a<g ref="char:EOLhyphen"/>gainſt the contrary evill. And in <hi>every petition</hi> there is <hi>interceſſion,</hi> becauſe we pray for others. And when we pray for the obtaining of any good, or removing of any evill, there muſt of neceſſity be <hi>giving of thanks,</hi> for any degree of having the one or removing the other</p>
+               <p>Thus find we, to our great comfort, that never <hi>man</hi> ſpake as <hi>Chriſt,</hi> when he ſpake to <hi>man:</hi> never <hi>Angel</hi> ſpake as he, when he ſpake to God. He hath left us <hi>a
+<pb n="28" facs="tcp:112107:21"/>Prayer,</hi> which is as <hi>perfect,</hi> for a prayer, as <hi>Chriſt</hi> for a <hi>Saviour,</hi> in its <hi>spheare</hi> and <hi>proportion.</hi>
+               </p>
+               <p>Good God!
+<note place="margin">
+                     <hi>Ap.</hi> Rom. 1.25. Heb. 10.29.</note> what <hi>phrenſie</hi> then hath poſſeſſed the <hi>practicke</hi> and <hi>pragmaticke spirits, to turne the truth of God into a lie? to trample under foote this</hi> ſacred and unparelled prayer? Doe not they <hi>count</hi> it an <hi>unholly thing?</hi> do not they cry out againſt it, as the <hi>Edomites</hi> againſt <hi>Jeruſalem,</hi>
+                  <note place="margin">Pſal. 137.7.</note> ſaying, <hi>down with it, downe with it, even to the ground?</hi> Or elſe, doe not they cry out a<g ref="char:EOLhyphen"/>gainſt it, as the <hi>two poſſeſſed with devils,</hi> cried out a<g ref="char:EOLhyphen"/>gainſt our <hi>Saviour</hi> ſaying,
+<note place="margin">Matth. 8.29.</note> 
+                  <hi>what have we to doe with thee? art thou come to torment us before the time?</hi> If not, why doe not they ſay it? ſhall I ſay in <hi>their pri<g ref="char:EOLhyphen"/>vate houſes?</hi>
+                  <note place="margin">T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r. 1.12. Alwayes liars.</note> nay, in <hi>our publike Congregations?</hi> three ſorts of <hi>Chriſtians</hi> there are (I ſhould ſay <hi>Cretians</hi>) which doe ſtand out, as profeſſed enemies unto it.</p>
+               <p>Firſt,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> there are ſome who cannot be content to turne it out of doores onely, as <hi>Sarah</hi> did <hi>Hagar;</hi> but they muſt ſend a <hi>ſcourge</hi> of <hi>ſmall cords</hi> after it, with a <hi>pasport</hi> of ignomine and diſgrace.
+<note place="margin">Teſt.</note> Some have not bin aſhamed to ſay, that <hi>if Chriſt were upon earth againe, he would not give his Church a ſet forme of prayer, be<g ref="char:EOLhyphen"/>cauſe it ſtinteth the spirit.</hi> An idle and impudent mi<g ref="char:EOLhyphen"/>nion ſaid (not long ſince) that ſhee did thank God,
+<note place="margin">A ſern. in Br. Str. Teſt.</note> 
+                  <hi>ſhe had forgotten the Lords prayer.</hi> A woman walking up <hi>Col. hill,</hi> within theſe few weeks, ſaid, <hi>J am very glad that J have not ſaid the Lords prayer for above a twelve-moneth.</hi> Another farre worſe then theſe (if worſe can be) ſaid,
+<note place="margin">A ſeru. in T.P. Teſt.</note> 
+                  <hi>J thinke in my conſcience J ſhall offend God more, if J ſhould ſay the Lords prayer, then if J ſhould lie with a man.</hi> O intolerable impiety! O impudent athe<g ref="char:EOLhyphen"/>iſme! O horrid blaſphemie! Doe not theſe ſtrip off
+<pb n="29" facs="tcp:112107:21"/>the white, and keep the black? are not theſe prophane and without ſhew of the contrary?
+<note place="margin">Rom. 2.5.</note> Doe not they vir<g ref="char:EOLhyphen"/>tually betray the <hi>Lord</hi> of life? <hi>Doe they not treaſure up unto themſelves wrath, againſt the day of wrath, and revelation of the righteous judgment of God?</hi> Certainly they are ſuch as Saint <hi>Paul</hi> ſpeaketh of, in 2 <hi>Tim.</hi> 4.3.4
+<note place="margin">2 Tim. 4.3.4.</note> 
+                  <hi>The time will come</hi> (ſaith he) <hi>when they will not indure ſound doctrine, but after their owne luſts ſhall they heap to themſelves teachers, having itching eares: And they ſhall turne away their eares from the truth, and ſhalbe given unto fables.</hi>
+               </p>
+               <p>Againe,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> there are ſome which doe commend <hi>this</hi> prayer (I feare,
+<note place="margin">The Browniſts and Anabap. Barrow and Green wood, &amp;c. in the reign of Q. <hi>Eliza.</hi>
+                  </note> not cordially) for an <hi>excellent copy</hi> to write after, a <hi>mould</hi> to make prayers by; but (they ſay) <hi>it is not a prayer it ſelfe,</hi> and therefore they will never conclude their Prayers with it. They have put this <hi>abominable errour in Print,</hi> and have likewiſe <hi>publiſhed the ſame</hi> lately, <hi>in our London Pulpits,</hi> tak<g ref="char:EOLhyphen"/>ing upon them to ſhew reaſon why it ſhould not be uſed for a prayer.</p>
+               <p>Firſt, let us <hi>weigh</hi> their <hi>reaſons</hi> that are in <hi>Print;</hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> although (indeed) they are not worth the weighing, they are ſo ſmall.</p>
+               <p>Firſt,
+<label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>1</label> (ſay they) it is not lawfull to uſe the <hi>Lords Prayer as a prayer,</hi> becauſe we have no warrant, or example for it.</p>
+               <p>I Anſwer, <hi>Christians</hi> have a ſufficient warrant:
+<label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> for, they are commanded,
+<note place="margin">Luke 11.2.</note> and taught by the <hi>Lord Jeſus</hi> to pray ſo: When ye pray, ſay <hi>this,</hi> not <hi>thus, ſay, Our Father, &amp;c.</hi> Theſe words are a contradicti<g ref="char:EOLhyphen"/>on to their <hi>ne dicite. Diſciplina diſcipuli, doctrina Magistri;</hi> The <hi>Masters</hi> doctrine is the <hi>Schollers</hi> diſ<g ref="char:EOLhyphen"/>cipline.</p>
+               <pb n="30" facs="tcp:112107:22"/>
+               <p> Againe,
+<label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>2</label> 
+                  <hi>The Lords Prayer</hi> is the <hi>patterne,</hi> or <hi>grand<g ref="char:EOLhyphen"/>worke</hi> of prayer; therfore it is not lawfull for a <hi>Chri<g ref="char:EOLhyphen"/>ſtian</hi> to uſe it, <hi>as a prayer.</hi>
+               </p>
+               <p>The <hi>Antecedent</hi> is true,
+<label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label>
+                  <note place="margin">Matth. 6.9.</note> but I deny the <hi>Argument:</hi> Is it no prayer, becauſe it is the <hi>groundworke</hi> of pray<g ref="char:EOLhyphen"/>er? The <hi>argument</hi> is like unto theſe <hi>two arguments.</hi> Firſt, the <hi>Articles</hi> of our <hi>Creed,</hi> are the <hi>ſumme</hi> and <hi>groundworke</hi> of our Faith; therefore it is not lawfull to repeat them, as the <hi>confeſſion of our ſaith.</hi> Second<g ref="char:EOLhyphen"/>ly, <hi>Concupiſcence</hi> is the <hi>groundworke</hi> and <hi>originall</hi> of ſinne;
+<note place="margin">Rom. 7. Jam. 1.14.15.</note> therefore <hi>concupiſcence</hi> is not ſinne: which <hi>Popiſh argument</hi> is very falſe, and followeth not; for, <hi>concupiſcence</hi> is both ſinne, and the cauſe of ſin.</p>
+               <p>Thirdly,
+<label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>3</label> they alleage, that <hi>Prayer</hi> muſt expreſſe our wants to God in <hi>particular,</hi> but the <hi>Lords Prayer</hi> is <hi>generall.</hi>
+               </p>
+               <p>Our Anſwer is,
+<label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> that both in <hi>generall,</hi> and in <hi>par<g ref="char:EOLhyphen"/>ticular</hi> we muſt pray to God; and therefore our <hi>lar<g ref="char:EOLhyphen"/>ger prayers</hi> do refer themſelves to the generall heads of <hi>this prayer,</hi> and this concludeth them all: Moreo<g ref="char:EOLhyphen"/>ver, this prayer is full, even in particular Petitions.</p>
+               <p>Fourthly,
+<label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>4</label> they alleage that our faith cannot arrive to all expreſſed in the <hi>Lords Prayer;</hi>
+                  <note place="margin">1 Cor. 13.</note> therefore it is unlawfull to uſe it <hi>publikely</hi> or <hi>privately, as a prayer.</hi>
+               </p>
+               <p>The <hi>argument</hi> is very <hi>ſilly,</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> and is like unto this; Our <hi>knowledge</hi> is imperfect, and cannot reach unto very many things contained in the <hi>Canonicall Scriptures;</hi> therfore a godly <hi>Christian</hi> may not travail in the bo<g ref="char:EOLhyphen"/>dy of the <hi>Canonical Scriptures.</hi> That man that ſhould diſpute thus, deſerveth to be called an <hi>Ignaro.</hi>
+               </p>
+               <p>Fifthly,
+<label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>5</label> the <hi>Lords Prayer is Scripture;</hi> therfore it is not lawfull to uſe it, as a prayer.</p>
+               <pb n="31" facs="tcp:112107:22"/>
+               <p> A very good <hi>argument</hi> it is to juſtifie the uſe of it.
+<label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> Wherefore doe we uſe <hi>Davids</hi> Pſalmes, and the <hi>holy hymues of Scripture,</hi> but to apply them to our occaſi<g ref="char:EOLhyphen"/>on; <hi>Lord, into thy hands I commend my ſpirit:</hi>
+                  <note place="margin">Pſal. 31.6. Luke 23.46.</note> Is not <hi>this Scripture?</hi> yet our Saviour uſed it for a prayer on the <hi>Croſſe.</hi> But we will paſſe from the <hi>Reaſons</hi> in the <hi>Preſſe,</hi> to the <hi>Reaſons</hi> in the <hi>Pulpit;</hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> which are of the ſame vertue and value.</p>
+               <p>Firſt,
+<note place="margin">Maſter <hi>T.</hi>
+                  </note>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>1</label> it is (ſaid the <hi>venerable Sir</hi>) <hi>Antichriſtian</hi> to ſay the <hi>Lords Prayer, as a Prayer,</hi> becauſe it is impo<g ref="char:EOLhyphen"/>ſed upon mens conſciences.</p>
+               <p>Seemeth it <hi>a ſmall thing unto him to have eaten up the good paſture,</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label>
+                  <note place="margin">Ezek. 34.18.</note> 
+                  <hi>but he muſt tread downe with his feet the reſidue of his paſtures?</hi> and to <hi>have drunke of the deepe waters,
+<note place="margin">Reve. 13.1.</note> but he muſt trouble the reſidue</hi> with his feet? Is <hi>not the name of blaſphemy upon his head?</hi> I am ſure it is upon his tongue. Is <hi>Chriſt</hi> Antichriſt? <hi>light</hi> darkeneſſe? <hi>heaven</hi> hell? Is it <hi>Antichristian</hi> to ſay that prayer which <hi>Chriſt</hi> hath commanded us? will, dare any man queſtion <hi>his</hi> authority? <hi>Conſider this ye that thus forget God; leſt he teare you in peeces,</hi>
+                  <note place="margin">Pſal. 50.22.</note> 
+                  <hi>and there be none to deliver you.</hi>
+               </p>
+               <p>But doth not the <hi>Author</hi> meane (forgetting <hi>Chriſt</hi>) that this prayer the <hi>Church</hi> hath impoſed upon mens conſciences, to be ſaid as a prayer? therefore it is <hi>Antichriſtian.</hi> It ſeemeth then that the <hi>Author</hi> will not allow the Church ſo much power, as to impoſe a <hi>preſcript forme of prayer</hi> upon mens conſciences, al<g ref="char:EOLhyphen"/>though <hi>Scripture</hi> it ſelfe. But cannot we prove that a <hi>preſcript forme of prayer</hi> may be impoſed upon the <hi>Church?</hi> let the <hi>Author</hi> and his followers take notice of 1 <hi>Chro. ch.</hi> 16. <hi>v.</hi> 7, 8.35.36. Again, of <hi>Joel chap.</hi> 2.
+<pb n="32" facs="tcp:112107:23"/>
+                  <hi>ve.</hi>
+                  <note place="margin">
+                     <hi>Apparet hunc P<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>mum, &amp;c.</hi> Muſc. in Pſal. 95.</note> 15, 16, 17. The 95. <hi>Pſalme,</hi> in the judgement of ſome learned men, was uſed in the publike aſſemblies of the <hi>Jewes,</hi> even upon the Sabboth day.</p>
+               <p>Maſter <hi>Calvia</hi> w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ting to the <hi>Lord Protector</hi> in the time of King <hi>Edward</hi> the ſixth, hath theſe words; <hi>Quod ad formulam precum,</hi>
+                  <note place="margin">Mr. <hi>Calvin. Epiſt. ad Pro<g ref="char:EOLhyphen"/>te<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> Angl. 87. pag. 69.</note> 
+                  <hi>&amp; rituum Eccleſiaſticorum, valde probo, &amp;c. Concerning the forme of prayer</hi> (ſaith he) <hi>and Eccleſiaſticall rites, I doe very well like that they ſhould be certain in a preſcript order, and that the Paſtors be not ſuffered to ſwarve from it; as well for the helpe of the ſimple,</hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+                  <hi>is alſo that a conſent of all Churches may he held;</hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+                  <hi>and laſtly, to prevent the raſhneſſe of thoſe that affect novelties.</hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+               </p>
+               <p>But againe,
+<label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>2</label> the <hi>Admirer</hi> of the <hi>Lords Prayer,</hi> ſaid; We ought not (my Beloved) to ſay the Lords Pray<g ref="char:EOLhyphen"/>er, <hi>as a prayer;</hi> eſpecially the <hi>Miniſter,</hi> in a publike Congregation; becauſe there be many ignorant per<g ref="char:EOLhyphen"/>ſons which underſtand it not.</p>
+               <p>To which I anſwer,
+<label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> firſt, that it is very plaine and eaſie to ſuch as deſire to in forme themſelves What, and How to pray. Again I anſwer, that if we muſt not ſay the <hi>Lords Prayer</hi> unleſſe we underſtand it, it is unlawfull to teach our <hi>children</hi> to ſay it,
+<note place="margin">Maſter <hi>Br.</hi> of Saint <hi>D.</hi> E.</note> who as yet are not come to the yeers of diſcretion. But conſider theſe places, <hi>Deut.</hi> 6.7. <hi>&amp;</hi> 11.19. <hi>Pro.</hi> 22.6. Laſtly, if it be ſo that none muſt ſay or hear the <hi>Lords Pray<g ref="char:EOLhyphen"/>er,</hi> but thoſe that throughly underſtand it; then it is unlawful to command our <hi>children</hi> to read the <hi>Scrip<g ref="char:EOLhyphen"/>tures,</hi> or to heare them read, eſpecially the <hi>6. chap.</hi> of Saint <hi>Mathew,</hi> and the 11. of Saint <hi>Luke.</hi>
+               </p>
+               <p>But this <hi>learned Doctor</hi> falleth from objecting a<g ref="char:EOLhyphen"/>gainſt the <hi>Prayer in generall,</hi> and betaketh himſelfe to <hi>particulars.</hi>
+               </p>
+               <pb n="33" facs="tcp:112107:23"/>
+               <p> Firſt, ye ought not to ſay the <hi>Lords prayer,</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>1</label> becauſe if you be in the <hi>ſtate</hi> of <hi>nature,</hi> you abuſe God, in that you ſay, <hi>Our Father.</hi>
+               </p>
+               <p>Is God a <hi>Father</hi> of regenerate perſons onely?
+<label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> Is not he a <hi>Father</hi> generally of all creatures? All men may ſay, <hi>Our Father,</hi> by a fourfold right. Of <hi>Crea<g ref="char:EOLhyphen"/>tion,</hi> the <hi>Father</hi> of our being: Of <hi>providence,</hi> the <hi>Fa<g ref="char:EOLhyphen"/>ther</hi> of our continuance: Of <hi>infuſion of the spirit:</hi> Of <hi>regeneration.</hi>
+               </p>
+               <p>In the two firſt ſences not men onely, but all other creatures may call God <hi>theirs;</hi> becauſe he created them and provideth for them.</p>
+               <p>In the third, not onely <hi>Saints,</hi> but all men may ge<g ref="char:EOLhyphen"/>nerally call God <hi>theirs.</hi>
+               </p>
+               <p>In the fourth, th' <hi>Elect</hi> onely: The firſt is the <hi>voice</hi> of <hi>nature,</hi> the ſecond of <hi>ſence,</hi> the third of <hi>reaſon,</hi> the fourth of <hi>grace.</hi>
+               </p>
+               <p>But unregenerate perſons ought not to ſay the <hi>Lords prayer as a prayer;</hi> for if they doe,
+<label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>2</label> they deſire their owne damnation, becauſe they pray, <hi>Thy King<g ref="char:EOLhyphen"/>dome come.</hi>
+               </p>
+               <p>I perceive that this <hi>famous Teacher</hi> never read of the <hi>Kingdome of power,</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> which enforceth to the <hi>King<g ref="char:EOLhyphen"/>dome of the Gospel:</hi> nor of the <hi>Kingdome of the Gospel,</hi> which makes way to <hi>the Kingdome of grace:</hi> nor of <hi>the Kingdome of grace,</hi> which prepares for <hi>the King<g ref="char:EOLhyphen"/>dom of glory;</hi> yet <hi>this petition</hi> comprehends all <hi>theſe.</hi> Not any longer wil I trouble my ſelf, to <hi>ſweep</hi> away theſe <hi>ſlender cobwebs,</hi> or to <hi>preſſe</hi> theſe <hi>rotten grapes;</hi> onely let me tell you, that the chiefeſt reaſon (as I geſſe) why the <hi>Novelists</hi> doe relinquiſh the <hi>ſacred
+<pb n="34" facs="tcp:112107:24"/>prayer of our Saviour</hi> is, becauſe it containeth <hi>this pe<g ref="char:EOLhyphen"/>tition, Forgive us our trespaſſes, as we forgive them that trespaſſe againſt us.</hi>
+               </p>
+               <p>And behold now I meet with the third,
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> and laſt ſort of <hi>adverſaries unto this prayer,</hi> which I may call lukewarme <hi>Laodiceans:</hi> they are the more moderate <hi>Browniſts</hi> and <hi>Separatists:</hi>
+                  <note place="margin">King <hi>James</hi> conter a <hi>Ham. Coa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t.</hi>
+                  </note> they will not quite forſake <hi>this prayer,</hi> but <hi>they will have as little of it as they can, peradventure none o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> it, if they durſt appeare to their ſecret diſlike;</hi> for do not their famous <hi>Lecturers</hi> refuſe to ſay it, except <hi>once</hi> in a <hi>quarter</hi> of a <hi>yeere?</hi> and then, muſt it not be ſaid upon the <hi>laſt lecture-day</hi> of the <hi>quarter,</hi> becauſe ſome worthy <hi>Citizens</hi> elſe willdeny their liberall <hi>Contribution?</hi> ſhal I compare theſe men to thoſe <hi>Spaniſh Friers</hi> (of whom I read) who would ſay their <hi>Pater noster</hi> but <hi>once</hi> a <hi>weeke,</hi> and that was upon the <hi>Lords day?</hi> Nay, may I not compare them rather to an honeſt <hi>brother</hi> of <hi>theirs,</hi> who being late<g ref="char:EOLhyphen"/>ly asked by a worthy <hi>Citizen,</hi> what he thought of the <hi>Lords prayer;</hi>
+                  <note place="margin">At Maſter M. houſe in <hi>G.H.</hi>
+                  </note> anſwered, I think <hi>it is a prayer of all prayers:</hi> being asked againe why then he did not ſay it oftener at the end of his owne prayers; anſwered, I will give my <hi>Audience</hi> content. Is not that ſaying of the <hi>Apostle</hi> verefied of theſe men,
+<note place="margin">Phil. 2.21.</note> 
+                  <hi>all ſeeke their owne, not the things which are Jeſus Chriſts.</hi>
+               </p>
+               <p>
+                  <hi>It is a prayer</hi> that cannot be ſaid too often; and I dare preſſe the <hi>frequent</hi> uſe thereof upon warrant of this plaine and cleare <hi>Text:</hi>
+                  <note place="margin">Luke 11.2.</note> 
+                  <hi>Quando oratis dicite, &amp;c. quando,</hi> is as much as <hi>quandocun<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>; quandocun<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>,</hi> is as much as <hi>quotieſcun<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>: whenſoever</hi> ye pray, or as <hi>often</hi> as ye pray. If we repeate the <hi>ſame words</hi> to i<g ref="char:EOLhyphen"/>terate
+<pb n="35" facs="tcp:112107:24"/>the <hi>ſame petitions</hi> to God, is it any more blameable in us then in <hi>Chriſt</hi> himſelfe,
+<note place="margin">Mat. 26.44. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Cor. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.8.</note> who in the <hi>Garden</hi> is ſaid to have uſed <hi>three times ſeverally the ſame words,</hi> not the <hi>ſame petition</hi> onely? Or, then in Saint <hi>Paul,</hi> who when <hi>Sathan</hi> buffered him, did <hi>three times pray the ſame prayer,</hi> as he confeſſeth.</p>
+               <p>Away then with theſe proud, ignorant, wilfull, diſ<g ref="char:EOLhyphen"/>ſembling <hi>Noveliſts:</hi> for thoſe which are aſhamed of <hi>the Lords prayer</hi> here on earth, of thoſe ſhall the <hi>ſonne</hi> of <hi>man</hi> be aſhamed, when he commeth in the glory of his <hi>Father</hi> with the holy <hi>Angels.</hi>
+               </p>
+               <p>But theſe are <hi>Brethren,</hi> and I heartily wiſh there<g ref="char:EOLhyphen"/>fore, that by ſome good means they were reformed; if not, it is the <hi>Apostles</hi> precept that they be avoided: <hi>Mark thoſe</hi> (ſaith he) <hi>that make contentions,</hi>
+                  <note place="margin">Rom. 16.17.</note> 
+                  <hi>and a<g ref="char:EOLhyphen"/>void them. Marke</hi> them, as you would the <hi>Baſilisk, avoid</hi> them, as you would a <hi>Peſt-houſe.</hi> And if ever <hi>(my beloved)</hi> you deſire to find true comfort by your prayers here on earth, or to ſee the face of Chriſt in Heaven, let me perſwade you to honour the <hi>Author</hi> for the <hi>prayers ſake,</hi> &amp; the <hi>prayer</hi> for the <hi>Authors ſake.</hi>
+               </p>
+               <p>Firſt, let us honour the <hi>Author</hi> for the <hi>Prayers ſake.</hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> It was a good <hi>memorandum,</hi> which <hi>Marke</hi> the <hi>Here<g ref="char:EOLhyphen"/>mite</hi> gave to one of his <hi>Schollers,</hi> for his direction in his duty of thankſgiving unto God, which was, that he was not onely to bleſſe God for the <hi>good workes</hi> which he did; but alſo for the <hi>good words</hi> which he ſpake. A man muſt as well bleſſe God for his <hi>good words,</hi> as for his <hi>good actions:</hi> if we come by the good word of grace, to have the grace of words in our ſpeech, we are as well to bleſſe God for <hi>it,</hi> as for
+<pb n="36" facs="tcp:112107:25"/>good workes: becauſe as we are not able to doe any good work, no more to ſpeak any good word of our ſelves, for <hi>it is not in him that willeth, nor in him that speaketh, but in God that giveth the power.</hi> If we muſt bleſſe God for our words, much more for our pray<g ref="char:EOLhyphen"/>ers, and if for our prayers, much more for <hi>this</hi> pray<g ref="char:EOLhyphen"/>er, and the gift of the <hi>spirit</hi> in it, and for his <hi>aſſi<g ref="char:EOLhyphen"/>ſtance</hi> in it.</p>
+               <p>And as we muſt honour the <hi>Author</hi> for the <hi>Prayers ſake;</hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> ſo let us honour the <hi>Prayer</hi> for the <hi>Authors ſake.</hi> How readily will God heare the <hi>Prayer</hi> of his <hi>ſonne!</hi> and how readily will the <hi>ſon</hi> acknowledge <hi>his owne Prayer</hi> made in his owne name! when we offer up this prayer we may ſay, as Saint <hi>Bernard</hi> of him<g ref="char:EOLhyphen"/>ſelfe, <hi>Nunquam abs te, abſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> te recedo, J never goe from thee without thee.</hi>
+                  <note place="margin">Cypr. de Orat. Dome</note> 
+                  <hi>Oremus ita<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>, fratres dilectiſſimi, ſicut magister Deus docuit. Let us therefore</hi> (my be<g ref="char:EOLhyphen"/>loved brethren) <hi>pray, as God our maſter hath taught us. Since he hath framed us a prayer; of which we are aſſured, that he is pleaſed with the hearing it; let us be delighted with the ſaying it; and let our zeale towards it, like true love, which groweth by the enjoying, en<g ref="char:EOLhyphen"/>creaſe by the practiſing; that the oftener we ſay it, the more we may love it; and the more we love it, the often<g ref="char:EOLhyphen"/>er we may ſay it. Amen, Amen.</hi>
+               </p>
+               <trailer>FJNJS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
